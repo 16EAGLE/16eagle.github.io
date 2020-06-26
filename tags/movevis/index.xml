@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moveVis on </title>
+    <link>/tags/movevis/</link>
+    <description>Recent content in moveVis on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} Jakob Schwalb-Willmann</copyright>
+    
+	<atom:link href="/tags/movevis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migratory Movement of Turkey Vultures and NDVI</title>
+      <link>/blog/2017-10-11-made-with-movevis-migratory-movement-of-turkey-vultures-and-ndvi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017-10-11-made-with-movevis-migratory-movement-of-turkey-vultures-and-ndvi/</guid>
+      <description>The Turkey Vulture (Cathartes aura) is the most widespread scavenging bird on the american continents, ranging from southern Canada to the tip of South America. Since 2003, the Hawk Mountain Sanctuary is collecting movement data of Turkey Vultures to investigate their migration behaviours, using radio tags monitored by satellite. 21 Turkey Vultures have been tracked during that period of time. The dataset is available on Movebank (Movebank ID: 481458). To learn more about the Turkey Vulture in general, read a detailed overview of the species here at the Hawk Mountain Sanctuary website.</description>
+    </item>
+    
+    <item>
+      <title>Movement of Procellariiformes and Sea Surface Temperature</title>
+      <link>/blog/2017-09-13-made-with-movevis-movement-of-procellariiformes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017-09-13-made-with-movevis-movement-of-procellariiformes/</guid>
+      <description>In the framework of the AniMove summer school 2017, the moveVis R package was introduced to the participants, resulting in several likewise interesting and beautiful animal movement animations. The shown animation displays the movement of Procellariiformes near Marion Island, South Africa, against the multi-temporal, daily NOAA sea surface temperature product G1SST. It was created by Tegan Carpenter-Kling, who is a PhD candidate within the Marine Apex Predator Research Unit (MAPRU) based at Nelson Mandela University in Port Elizabeth, South Africa.</description>
+    </item>
+    
+  </channel>
+</rss>
