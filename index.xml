@@ -19,7 +19,8 @@
       
       <guid>/projects/</guid>
       <description>PhD Research project on the &amp;ldquo;Potentials of animal-environment interactions for remote sensing research&amp;rdquo;, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr. Martin Wikelski (Max Planck Institute for Animal Behavior)
-Tools Created moveVis, an R package providing tools to visualize movement data (e.g. from GPS tracking) and temporal changes of environmental data (e.g. from remote sensing) by creating video animations. A peer-reviewed open-access paper accompanying moveVis has been published in Methods in Ecology and Evolution.</description>
+MSc. studies Thesis: Schwalb-Willmann, J. (2018). A deep learning movement prediction framework for identifying anomalies in animal-environment interactions. Master&amp;rsquo;s, Julius Maximilians University Würzburg/German Aerospace Center (DLR).
+BSc. studies Thesis: Schwalb-Willmann, J. (2016).</description>
     </item>
     
     <item>
@@ -28,7 +29,7 @@ Tools Created moveVis, an R package providing tools to visualize movement data (
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Wegmann, M., Schwalb-Willmann, J., &amp;amp; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing.
+      <description>Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing. ISBN: 9781784272135.
 Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Animating movement trajectories in synchronicity with static or temporally dynamic environmental data in R. Methods Ecol Evol. 2020; 11: 664–669. https://doi.org/10.1111/2041-210X.13374</description>
     </item>
     
