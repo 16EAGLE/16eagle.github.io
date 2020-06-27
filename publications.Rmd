@@ -1,0 +1,13 @@
+---
+date: "`r format(Sys.time(), '%Y-%m-%dT%H:%M:%S-00:00')`"
+description: Publications
+draft: false
+keywords:
+- publications
+stylesheet: post.css
+title: Publications
+---
+
+Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). [An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software](https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601). Exeter, UK. *Pelagic Publishing*. ISBN: 9781784272135.
+
+Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). [moveVis: Animating movement trajectories in synchronicity with static or temporally dynamic environmental data in R.](https://doi.org/10.1111/2041-210X.13374) *Methods Ecol Evol. 2020; 11: 664–669.* https://doi.org/10.1111/2041-210X.13374

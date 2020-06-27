@@ -15,18 +15,18 @@
     <item>
       <title>Projects</title>
       <link>/projects/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2020 23:19:24 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>PhD Research project on the &amp;ldquo;Potentials of animal-environment interactions for remote sensing research&amp;rdquo;, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr. Martin Wikelski (Max Planck Institute for Animal Behavior)
-MSc. studies Thesis: Schwalb-Willmann, J. (2018). A deep learning movement prediction framework for identifying anomalies in animal-environment interactions. Master&amp;rsquo;s, Julius Maximilians University Würzburg/German Aerospace Center (DLR).
-BSc. studies Thesis: Schwalb-Willmann, J. (2016).</description>
+      <description>PhD Research project on the “Potentials of animal-environment interactions for remote sensing research”, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr. Martin Wikelski (Max Planck Institute for Animal Behavior)
+ MSc. studies Thesis: Schwalb-Willmann, J. (2018). A deep learning movement prediction framework for identifying anomalies in animal-environment interactions. Master’s, Julius Maximilians University Würzburg/German Aerospace Center (DLR).
+ BSc. studies Thesis: Schwalb-Willmann, J.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>/publications/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2020 23:17:02 +0000</pubDate>
       
       <guid>/publications/</guid>
       <description>Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing. ISBN: 9781784272135.
@@ -36,11 +36,11 @@ Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Anim
     <item>
       <title>Teaching</title>
       <link>/teaching/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2020 23:16:25 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>2020 Seminar &amp;ldquo;Advanced Programming for Spatial Analysis&amp;rdquo;, EAGLE MSc.: Practical training to strengthen technical and methodological skills in machine learning (deep neural networks for computer vision, deep learning, discriminative modeling), machine-to-machine communication and creating efficient local and cloud-based development environments for Python and R.
-Seminar &amp;ldquo;Scientific Graphics&amp;rdquo;, EAGLE MSc.: Training to improve skills in creating scientific graphics using R and LaTeX, and communicating scientific work through web applications using shiny in R.</description>
+      <description>2020 Seminar “Advanced Programming for Spatial Analysis”, EAGLE MSc.: Practical training to strengthen technical and methodological skills in machine learning (deep neural networks for computer vision, deep learning, discriminative modeling), machine-to-machine communication and creating efficient local and cloud-based development environments for Python and R.
+Seminar “Scientific Graphics”, EAGLE MSc.: Training to improve skills in creating scientific graphics using R and LaTeX, and communicating scientific work through web applications using shiny in R.</description>
     </item>
     
     <item>
