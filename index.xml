@@ -14,7 +14,7 @@
     <item>
       <title>Publications</title>
       <link>/publications/</link>
-      <pubDate>Mon, 29 Jun 2020 18:15:01 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 22:37:21 +0000</pubDate>
       
       <guid>/publications/</guid>
       <description>“An Introduction to Spatial Data Analysis” helps beginners getting started working with spatial data in QGIS and R.
@@ -25,7 +25,7 @@ Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Anim
     <item>
       <title>Teaching</title>
       <link>/teaching/</link>
-      <pubDate>Mon, 29 Jun 2020 18:15:01 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 22:37:21 +0000</pubDate>
       
       <guid>/teaching/</guid>
       <description>Teaching at the AniMove Science School 2019 at Yale University, USA
@@ -36,10 +36,10 @@ Seminar “Scientific Graphics”, EAGLE MSc.: Training to improve skills in cre
     <item>
       <title>Projects</title>
       <link>/projects/</link>
-      <pubDate>Mon, 29 Jun 2020 18:15:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 22:37:20 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Video   Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann  PhD Research project on the “Potentials of animal-environment interactions for remote sensing research”, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof.</description>
+      <description>Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann  PhD Research project on the “Potentials of animal-environment interactions for remote sensing research”, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr.</description>
     </item>
     
   </channel>

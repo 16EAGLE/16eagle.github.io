@@ -8,7 +8,11 @@ stylesheet: post.css
 title: Projects
 ---
 
-<video src="/vid/projects.webm" autoplay controls loop>Video</video>
+<video autoplay controls loop>
+   <source src="/vid/projects.webm" type="video/webm">
+   <source src="/vid/projects.mp4" type="video/mp4">
+   <source src="/vid/projects.mov" type="video/mov">
+</video>
 <figcaption>*Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann*</figcaption>
 
 ## PhD
