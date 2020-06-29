@@ -8,13 +8,16 @@ stylesheet: post.css
 title: Teaching
 ---
 
+![Teaching at Yale](/img/teaching.jpg)
+*Teaching at the AniMove Science School 2019 at Yale University, USA*
+
 ## 2020
 
 Seminar **"Advanced Programming for Spatial Analysis"**, [EAGLE MSc.](http://eagle-science.org): Practical training to strengthen technical and methodological skills in machine learning (deep neural networks for computer vision, deep learning, discriminative modeling), machine-to-machine communication and creating efficient local and cloud-based development environments for Python and R.
 
 Seminar **"Scientific Graphics"**, [EAGLE MSc.](http://eagle-science.org): Training to improve skills in creating scientific graphics using R and LaTeX, and communicating scientific work through web applications using shiny in R.
 
-Seminar (Block) **"Spectral Unmixing of Hyperspectral Remote Sensing Imagery"**, [EAGLE MSc.](http://eagle-science.org): Introduction in spectral unmixing theory, physical principles, established methods and practical tools using QGIS and R.
+Seminar (Block) **"Spectral Unmixing of Hyperspectral Remote Sensing Imagery"**, [EAGLE MSc.](http://eagle-science.org): Introduction to spectral unmixing theory, physical principles, established methods and practical tools using QGIS and R.
 
 ## 2019
 

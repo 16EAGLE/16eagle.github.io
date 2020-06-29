@@ -8,15 +8,18 @@ stylesheet: post.css
 title: Projects
 ---
 
+<video src="/vid/projects.webm" autoplay controls loop>Video</video>
+<figcaption>*Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann*</figcaption>
+
 ## PhD
 
 Research project on the *"Potentials of animal-environment interactions for remote sensing research"*, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr. Martin Wikelski (Max Planck Institute for Animal Behavior)
 
-## MSc. studies
+## MSc.
 
 Thesis: Schwalb-Willmann, J. (2018). [A deep learning movement prediction framework for identifying anomalies in animal-environment interactions](https://elib.dlr.de/123853/). Master's, Julius Maximilians University Würzburg/German Aerospace Center (DLR).
 
-## BSc. studies
+## BSc.
 
 Thesis: Schwalb-Willmann, J. (2016). [Comparison of different algorithms for calculating broadband albedo from AVHRR data](https://elib.dlr.de/107761/). Bachelor's, Ludwig Maximilians University Munich/German Aerospace Center (DLR).
 
