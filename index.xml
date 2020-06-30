@@ -13,9 +13,19 @@
     
     
     <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Tue, 30 Jun 2020 16:20:55 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>“An Introduction to Spatial Data Analysis” helps beginners getting started working with spatial data in QGIS and R.  Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing. ISBN: 9781784272135.
+Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Animating movement trajectories in synchronicity with static or temporally dynamic environmental data in R.</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>/teaching/</link>
-      <pubDate>Tue, 30 Jun 2020 14:19:27 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2020 16:20:55 +0000</pubDate>
       
       <guid>/teaching/</guid>
       <description>Teaching at the AniMove Science School 2019 at Yale University, USA  2020 Seminar “Advanced Programming for Spatial Analysis”, EAGLE MSc.: Practical training to strengthen technical and methodological skills in machine learning (deep neural networks for computer vision, deep learning, discriminative modeling), machine-to-machine communication and creating efficient local and cloud-based development environments for Python and R.
@@ -25,20 +35,10 @@ Seminar “Scientific Graphics”, EAGLE MSc.: Training to improve skills in cre
     <item>
       <title>Projects</title>
       <link>/projects/</link>
-      <pubDate>Tue, 30 Jun 2020 14:19:26 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2020 16:20:54 +0000</pubDate>
       
       <guid>/projects/</guid>
       <description>Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann  PhD Research project on the “Potentials of animal-environment interactions for remote sensing research”, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Tue, 30 Jun 2020 14:19:26 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>“An Introduction to Spatial Data Analysis” helps beginners getting started working with spatial data in QGIS and R.  Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing. ISBN: 9781784272135.
-Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Animating movement trajectories in synchronicity with static or temporally dynamic environmental data in R.</description>
     </item>
     
     <item>
@@ -49,6 +49,24 @@ Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Anim
       <guid>/blog/movevis-published-in-mee/</guid>
       <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map  This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.
 The visualization of movement trajectories sometimes is not easy.</description>
+    </item>
+    
+    <item>
+      <title>The 2019 PhD colloquium at DLR&#39;s Earth Observation Center (EOC) in Oberpfaffenhofen</title>
+      <link>/blog/phd-colloquium-2019/</link>
+      <pubDate>Fri, 06 Dec 2019 08:00:00 +0000</pubDate>
+      
+      <guid>/blog/phd-colloquium-2019/</guid>
+      <description>Figure 1: This year’s attendees of our annual PhD colloquium at EOC in Oberpfaffenhofen.  Last Thursday, on November 28th, 2019, our annual PhD colloquium took place at the Earth Observation Center (EOC) at DLR in Oberpfaffenhofen. As every year, the current PhD students of Prof. Dr. Stefan Dech met to present the concepts and statuses of their PhDs and to discuss their approaches and ideas within a larger group.</description>
+    </item>
+    
+    <item>
+      <title>The 2018 PhD colloquium at DLR&#39;s Earth Observation Center (EOC) in Oberpfaffenhofen</title>
+      <link>/blog/phd-colloquium-2018/</link>
+      <pubDate>Thu, 15 Nov 2018 08:00:00 +0000</pubDate>
+      
+      <guid>/blog/phd-colloquium-2018/</guid>
+      <description>Figure 1: This year’s attendees of our annual PhD colloquium at EOC in Oberpfaffenhofen.  Yesterday, on November 14th, 2018, the annual PhD colloquium of PhD candiates supervised by Prof. Dr. Stefan Dech met at the Earth Observation Center (EOC) at DLR in Oberpfaffenhofen to talk about their PhD topics and statuses. Each PhD candidate presented her or his PhD concept and status and addressed challenges and successes of the past year, followed by a discussion with the present candidates and supervisors.</description>
     </item>
     
     <item>

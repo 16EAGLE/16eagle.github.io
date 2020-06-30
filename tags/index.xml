@@ -67,6 +67,24 @@
     </item>
     
     <item>
+      <title>PhD</title>
+      <link>/tags/phd/</link>
+      <pubDate>Fri, 06 Dec 2019 08:00:00 +0000</pubDate>
+      
+      <guid>/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>/tags/talks/</link>
+      <pubDate>Fri, 06 Dec 2019 08:00:00 +0000</pubDate>
+      
+      <guid>/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RStoolbox</title>
       <link>/tags/rstoolbox/</link>
       <pubDate>Thu, 15 Mar 2018 08:12:00 +0000</pubDate>
