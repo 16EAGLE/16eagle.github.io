@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jakob Schwalb-Willmann</title>
-    <link>https://jakob.schwalb-willmann.de/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Jakob Schwalb-Willmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
     <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jakob.schwalb-willmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MEE</title>
-      <link>https://jakob.schwalb-willmann.de/tags/mee/</link>
+      <link>/tags/mee/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/mee/</guid>
+      <guid>/tags/mee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>movement</title>
-      <link>https://jakob.schwalb-willmann.de/tags/movement/</link>
+      <link>/tags/movement/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/movement/</guid>
+      <guid>/tags/movement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>moveVis</title>
-      <link>https://jakob.schwalb-willmann.de/tags/movevis/</link>
+      <link>/tags/movevis/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/movevis/</guid>
+      <guid>/tags/movevis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publication</title>
-      <link>https://jakob.schwalb-willmann.de/tags/publication/</link>
+      <link>/tags/publication/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/publication/</guid>
+      <guid>/tags/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://jakob.schwalb-willmann.de/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visualization</title>
-      <link>https://jakob.schwalb-willmann.de/tags/visualization/</link>
+      <link>/tags/visualization/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/visualization/</guid>
+      <guid>/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RStoolbox</title>
-      <link>https://jakob.schwalb-willmann.de/tags/rstoolbox/</link>
+      <link>/tags/rstoolbox/</link>
       <pubDate>Thu, 15 Mar 2018 08:12:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/rstoolbox/</guid>
+      <guid>/tags/rstoolbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spectral unmixing</title>
-      <link>https://jakob.schwalb-willmann.de/tags/spectral-unmixing/</link>
+      <link>/tags/spectral-unmixing/</link>
       <pubDate>Thu, 15 Mar 2018 08:12:00 +0000</pubDate>
       
-      <guid>https://jakob.schwalb-willmann.de/tags/spectral-unmixing/</guid>
+      <guid>/tags/spectral-unmixing/</guid>
       <description></description>
     </item>
     

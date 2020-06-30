@@ -3,82 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/</loc>
+    <loc>/teaching/</loc>
+    <lastmod>2020-06-30T14:10:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2020-06-30T14:10:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2020-06-30T14:10:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/mee/</loc>
+    <loc>/tags/mee/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/movement/</loc>
+    <loc>/tags/movement/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/movevis/</loc>
+    <loc>/tags/movevis/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/publication/</loc>
+    <loc>/tags/publication/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/visualization/</loc>
+    <loc>/tags/visualization/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</loc>
+    <loc>/blog/movevis-published-in-mee/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/rstoolbox/</loc>
+    <loc>/tags/rstoolbox/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/tags/spectral-unmixing/</loc>
+    <loc>/tags/spectral-unmixing/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/blog/spectral-unmixing-using-rstoolbox/</loc>
+    <loc>/blog/spectral-unmixing-using-rstoolbox/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/blog/turkey-vulture-animation-using-movevis/</loc>
+    <loc>/blog/turkey-vulture-animation-using-movevis/</loc>
     <lastmod>2017-10-11T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/blog/procellariiformes-animation-using-movevis/</loc>
+    <loc>/blog/procellariiformes-animation-using-movevis/</loc>
     <lastmod>2017-09-13T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakob.schwalb-willmann.de/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

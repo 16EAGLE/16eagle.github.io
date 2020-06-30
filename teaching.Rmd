@@ -9,7 +9,7 @@ title: Teaching
 ---
 
 ![Teaching at Yale](/img/teaching.jpg)
-*Teaching at the AniMove Science School 2019 at Yale University, USA*
+<figcaption>*Teaching at the AniMove Science School 2019 at Yale University, USA*</figcaption>
 
 ## 2020
 
