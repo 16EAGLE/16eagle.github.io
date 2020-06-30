@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <title>Spectral unmixing in R using RStoolbox | Jakob Schwalb-Willmann</title>
+
+  <meta charset="UTF-8">
+  <meta name="language" content="en">
+  <meta name="description" content="This blog post introduces the mesma function in RStoolbox.">
+  <meta name="keywords" content="R , RStoolbox , spectral unmixing">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  
+  
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Spectral unmixing in R using RStoolbox" />
+  <meta name="twitter:description" content="This blog post introduces the mesma function in RStoolbox."
+  />
+  <meta name="twitter:site" content="@https://twitter.com/schwalbwillmann" />
+  <meta name="twitter:creator" content="@https://twitter.com/schwalbwillmann" />
+  
+
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  
+  
+    
+ 
+  
+  
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/post.min.7c99288bff69857630c98e8a051dc1cbc3be0024be68b6f9497b264d62c411f3.css" integrity="sha256-fJkoi/9phXYwyY6KBR3By8O&#43;ACS&#43;aLb5SXsmTWLEEfM="/>
+  
+    
+    <link rel="stylesheet" href="/scss/custom.scss" integrity=""/>
+  
+  
+   
+   
+    
+
+<script type="application/ld+json">
+  
+    {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "\/"
+      },
+      "articleSection" : "blog",
+      "name" : "Spectral unmixing in R using RStoolbox",
+      "headline" : "Spectral unmixing in R using RStoolbox",
+      "description" : "This blog post introduces the mesma function in RStoolbox.",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2018",
+      "datePublished": "2018-03-15 08:12:00 \u002b0000 \u002b0000",
+      "dateModified" : "2018-03-15 08:12:00 \u002b0000 \u002b0000",
+      "url" : "\/blog\/spectral-unmixing-using-rstoolbox\/",
+      "wordCount" : "714",
+      "keywords" : ["R", "RStoolbox", "spectral unmixing", "Blog"]
+    }
+  
+  </script>
+</head>
+
+<body>
+  <div class="burger__container">
+  <div class="burger" aria-controls="navigation" aria-label="Menu">
+    <div class="burger__meat burger__meat--1"></div>
+    <div class="burger__meat burger__meat--2"></div>
+    <div class="burger__meat burger__meat--3"></div>
+  </div>
+</div>
+ 
+
+  <nav class="nav" role="navigation">
+  <ul class="nav__list">
+    
+    
+      <li>
+        <a  href="/">about</a>
+      </li>
+    
+      <li>
+        <a  href="/projects">projects</a>
+      </li>
+    
+      <li>
+        <a  href="/teaching">teaching</a>
+      </li>
+    
+      <li>
+        <a  href="/publications">publications</a>
+      </li>
+    
+      <li>
+        <a  class="active"
+         href="/blog">blog</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  <main>
+    
+    
+
+    <div class="post">
+      <header class="post__header">
+        <h1 class="post__title">Spectral unmixing in R using RStoolbox</h1>
+        <time datetime="2018-03-15 08:12:00 &#43;0000 &#43;0000" class="post__date"
+        >Last updated: March 15, 2018</time>
+      </header>
+      <p>
+          
+
+
+
+<p>Recently, I finished the development of the first version of a spectral unmixing function being part of <a href="http://bleutner.github.io" target="_blank">RStoolbox</a>, an R package offering numerous tools for remote sensing analysis written by <em>Benjamin Leutner</em>. The multiple endmember spectral mixture analysis (mesma) function makes it possible to unmix multi- and hyper-spectral imagery by sets of spectral endmember profiles.</p>
+<img src="/img/spectral-unmixing-in-R_fig1.png" title="fig:" alt="mesma framework" />
+<figcaption>
+<em>Figure 1: The RStoolbox::mesma() workflow.</em>
+</figcaption>
+<p>For this, a non-negative least squares (NNLS) solver was implemented. NNLS is a statistical approach to fit model parameters to data, assuming that the model parameters are always expressed linearly to those not expressed by the model (unknown parameters) and that the model parameters can never be negative. There are different approaches to solve the NNLS problem. A popular one had been introduced by Lawson &amp; Hanson (1974), which can be considered as fundamental work on practical Least Square Problems solving. It was originally published as FORTRAN code, which is still widely used, e.g. by the R NNLS package or by the Python scipy library. However, compared to newer developing frameworks and languages emerged, the FORTRAN implementation is relatively slow. Thus and to be independent from existing solutions, I wrote a C++ NNLS solver for mesma(), based on a sequential coordinate-wise algorithm (SCA) introduced by Franc et al. (2005). The latter method inherits strong control about the solver’s iteration stopping conditions.</p>
+<p>Apart from NNLS, we are planning to add further solver methods (which is why I am currently looking for other practicable unmixing methods).</p>
+<p>In this post, I want to demonstrate, how to use the unmixing function RStoolbox::mesma() by giving an example. It can be reproduced on any device running R and having installed the current <code>CRAN</code> version of <code>RStoolbox</code>:</p>
+<pre class="r"><code>install.packages(&quot;RStoolbox&quot;)</code></pre>
+<p>First, we are going to load the Landsat example imagery delivered with RStoolbox:</p>
+<pre class="r"><code>#load packages
+library(raster)
+library(RStoolbox)
+ 
+#load an example dataset
+data(lsat)</code></pre>
+<p>To create some endmember spectra, we simply collect the spectral profiles of “water” and “land” from our imagery. We keep it simple here – instead, you could use spectra from a spectral library.</p>
+<pre class="r"><code>#make up some endmember spectra: water and land
+em_names &lt;- c(&quot;water&quot;, &quot;land&quot;)
+pts &lt;- data.frame(class=em_names, cell = c(47916,5294))
+em &lt;- lsat[pts$cell]
+rownames(em) &lt;- em_names</code></pre>
+<p>That’s all for the pre-processing! Now you have an image and two endmembers. Note that you need to have at least two endmembers (as we have in this example) to unmix an image. Also, take a look at “em” and “lsat” before continuing: Both have the same spectral resolution (band number), which is a prerequisite. This means that if you want to use data from a spectral library for unmixing, you simply need to resample the data to the same spectral resolution of your imagery to use mesma().</p>
+<p>Now, just call <code>mesma()</code>. It returns a probability raster, each layer representing one class of your endmembers, except for the last layer, which gives you the RMSE for each pixel.</p>
+<pre class="r"><code>#unmix the image for water and land
+probs &lt;- mesma(lsat, em, method = &quot;NNLS&quot;)</code></pre>
+<p>Since we decided to develop the NNLS solver from scratch in C++ and not to use existing older FORTRAN implementations, mesma() is quiet fast. It supports parallel processing, if you want to unmix large amounts of data and have multiple CPU cores available. To do so, just create a cluster before calling <code>mesma()</code> using <code>raster::beginCluster()</code> and stop it afterwards using <code>raster::endCluster()</code>.</p>
+<p>Now, let us look at the output’s with two simple two-coloured plots:</p>
+<pre class="r"><code>#&#39; #take a look
+raster::plot(probs$water, col = c(&quot;white&quot;,&quot;blue&quot;))
+raster::plot(probs$land, col = c(&quot;white&quot;,&quot;brown&quot;))</code></pre>
+Here are the classified probabilities for water…
+<img src="/img/spectral-unmixing-in-R_fig2.png" alt="histogram of water values" />
+<figcaption>
+<em>Figure 2: Classified probabilities showing water and non-water pixels.</em>
+</figcaption>
+<p>and here they are for land:</p>
+<img src="/img/spectral-unmixing-in-R_fig3.png" title="fig:" alt="histogram of water values" />
+<figcaption>
+<em>Figure 3: Classified probabilities showing land and non-land pixels.</em>
+</figcaption>
+<p>You clearly see, how <code>mesma()</code> differentiated between these two endmembers with only one spectrum per class. If you have ideas or find a problem, please report us <a href="http://www.github.com/bleutner/rstoolbox/issues" target="_blank">via GitHub</a>.</p>
+<p><strong>References:</strong>
+Franc, V., Hlaváč, V., &amp; Navara, M. (2005). Sequential coordinate-wise algorithm for the non-negative least squares problem. In: International Conference on Computer Analysis of Images and Patterns (pp. 407-414). Berlin, Heidelberg.</p>
+<p>Lawson, C. L., &amp; Hanson, R. J. (1974). Solving least squares problems (Vol. 15). Siam.</p>
+<p><em>A similar version of this blog post has also been published at the <a href="http://remote-sensing.eu/spectral-unmixing-functionality-in-rstoolbox/" target="_blank">webpage of the Department of Remote Sensing, University of Wuerzburg, Germany</a> and at the <a href="http://students.eagle-science.org/spectral-unmixing-in-r/" target="_blank">EAGLE student’s webpage</a>.</em></p>
+
+
+          
+      </p>
+        
+
+<ul class="tags__list">
+    
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/r/">r</a>
+    </li>
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/rstoolbox/">rstoolbox</a>
+    </li>
+    </ul>
+
+ 
+    </div>
+
+    
+    
+
+  </main>
+
+  
+  <footer>
+      
+
+
+<div class="social-icons">
+  
+     
+    
+      <a class="social-icons__icon" title="Twitter"
+         style="background-image: url(/images/social/twitter.svg)" 
+         href="https://twitter.com/schwalbwillmann"
+         target="_blank" rel="noopener">
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__icon" title="GitHub"
+         style="background-image: url(/images/social/github.svg)" 
+         href="https://github.com/16eagle"
+         target="_blank" rel="noopener">
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__icon" title="Email"
+         style="background-image: url(/images/social/email.svg)" 
+         href="mailto:jakob.schwalb-willmann@uni-wuerzburg.de"
+         target="_blank" rel="noopener">
+      </a>
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+     
+</div>
+
+    <p>© 2020 Jakob Schwalb-Willmann</p>
+  </footer>
+
+
+  
+  <script src="/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/components/prism-core.min.js"></script>
+  <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
+    data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
+
+</body>
+
+</html>

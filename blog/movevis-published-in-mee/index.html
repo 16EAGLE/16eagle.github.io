@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <title>Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution | Jakob Schwalb-Willmann</title>
+
+  <meta charset="UTF-8">
+  <meta name="language" content="en">
+  <meta name="description" content="The peer-reviewed article accompanying the moveVis R package has been published in the journal &#39;Methods in Ecology and Evolution&#39;.">
+  <meta name="keywords" content="R , moveVis , publication , MEE , visualization , movement">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  
+  
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution" />
+  <meta name="twitter:description" content="The peer-reviewed article accompanying the moveVis R package has been published in the journal &amp;#39;Methods in Ecology and Evolution&amp;#39;."
+  />
+  <meta name="twitter:site" content="@https://twitter.com/schwalbwillmann" />
+  <meta name="twitter:creator" content="@https://twitter.com/schwalbwillmann" />
+  
+
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  
+  
+    
+ 
+  
+  
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/post.min.7c99288bff69857630c98e8a051dc1cbc3be0024be68b6f9497b264d62c411f3.css" integrity="sha256-fJkoi/9phXYwyY6KBR3By8O&#43;ACS&#43;aLb5SXsmTWLEEfM="/>
+  
+    
+    <link rel="stylesheet" href="/scss/custom.scss" integrity=""/>
+  
+  
+   
+   
+    
+
+<script type="application/ld+json">
+  
+    {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "\/"
+      },
+      "articleSection" : "blog",
+      "name" : "Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution",
+      "headline" : "Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution",
+      "description" : "The peer-reviewed article accompanying the moveVis R package has been published in the journal \u0027Methods in Ecology and Evolution\u0027.",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2020",
+      "datePublished": "2020-05-11 11:22:00 \u002b0000 \u002b0000",
+      "dateModified" : "2020-05-11 11:22:00 \u002b0000 \u002b0000",
+      "url" : "\/blog\/movevis-published-in-mee\/",
+      "wordCount" : "412",
+      "keywords" : ["R", "moveVis", "publication", "MEE", "visualization", "movement", "Blog"]
+    }
+  
+  </script>
+</head>
+
+<body>
+  <div class="burger__container">
+  <div class="burger" aria-controls="navigation" aria-label="Menu">
+    <div class="burger__meat burger__meat--1"></div>
+    <div class="burger__meat burger__meat--2"></div>
+    <div class="burger__meat burger__meat--3"></div>
+  </div>
+</div>
+ 
+
+  <nav class="nav" role="navigation">
+  <ul class="nav__list">
+    
+    
+      <li>
+        <a  href="/">about</a>
+      </li>
+    
+      <li>
+        <a  href="/projects">projects</a>
+      </li>
+    
+      <li>
+        <a  href="/teaching">teaching</a>
+      </li>
+    
+      <li>
+        <a  href="/publications">publications</a>
+      </li>
+    
+      <li>
+        <a  class="active"
+         href="/blog">blog</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  <main>
+    
+    
+
+    <div class="post">
+      <header class="post__header">
+        <h1 class="post__title">Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution</h1>
+        <time datetime="2020-05-11 11:22:00 &#43;0000 &#43;0000" class="post__date"
+        >Last updated: May 11, 2020</time>
+      </header>
+      <p>
+          
+
+
+
+<video autoplay controls loop>
+<source src="/vid/moveVis-published-in-mee_vid1.webm" type="video/webm">
+<source src="/vid/moveVis-published-in-mee_vid1.mp4" type="video/mp4">
+<source src="/vid/moveVis-published-in-mee_vid1.mov" type="video/mov">
+</video>
+<figcaption>
+<em>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map</em>
+</figcaption>
+<p>This month, our <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13374">open-access paper</a> on visualizing movement trajectories in R using <code>moveVis</code> has been published in the <a href="https://methodsblog.com/2020/05/05/issue-11-5-our-may-issue-is-now-online/">latest issue</a> of <em>Methods in Ecology and Evolution</em>. The article describes the <code>moveVis</code> user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.</p>
+<p>The visualization of movement trajectories sometimes is not easy. Spatial data without a temporal component can often be sufficiently visualized using a plot or map of two dimensions, x and y. Movement trajectories, however, are spatio‐temporal data that represent the change in the spatial location of tracked objects or individuals over time. To account for their temporal component, the representation of time in a third dimension is required. While, in certain cases, it can be sufficient to use a static spatial plot to indicate time, e.g. by using a colour palette or by adding a z axis (space-time cubes), a spatio-temporal animation directly relates the temporal dimension of the data to actual time.</p>
+<br>
+<video autoplay controls loop>
+<source src="/vid/moveVis-published-in-mee_vid2.webm" type="video/webm">
+<source src="/vid/moveVis-published-in-mee_vid2.mp4" type="video/mp4">
+<source src="/vid/moveVis-published-in-mee_vid2.mov" type="video/mov">
+</video>
+<figcaption>
+<em>Figure 2: Migratory movements of white storks Ciconia ciconia on a temporally interpolated MODIS MOD13Q1 NDVI time series</em>
+</figcaption>
+<p>To ease the creation of such animations, the <a href="https://movevis.org/">R package <code>moveVis</code></a> has been developed. <code>moveVis</code> automates the processing of movement and environmental data to turn them into an animation. We deem <code>moveVis</code> to be a useful tool for visually exploring and interpreting movement patterns, including potential interactions of individuals with each other and their environment, and communicate such patterns appropriately to different kinds of audiences.</p>
+<p>The online version of our <a href="https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13374">open-access paper</a> includes a detailed <a href="https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F2041-210X.13374&amp;file=mee313374-sup-0001-AppendixS1.docx">worked example</a> using migratory movement trajectories of white storks, the resulting video animations (<a href="https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F2041-210X.13374&amp;file=mee313374-sup-0002-VideoS2.mov">video 1</a>, <a href="https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F2041-210X.13374&amp;file=mee313374-sup-0003-VideoS3.mov">video 2</a> &amp; <a href="https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F2041-210X.13374&amp;file=mee313374-sup-0004-VideoS4.mov">video 3</a>) and an <a href="https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F2041-210X.13374&amp;file=mee313374-sup-0005-TableS1.docx">overview</a> of all <code>moveVis</code> functions and their purposes.</p>
+<p>To get started using <code>moveVis</code>, we recommend to have a look at our examples and documentation on <a href="https://movevis.org/">movevis.org</a>. The <a href="https://github.com/16EAGLE/moveVis">source code</a> of <code>moveVis</code> is openly available on GitHub and has been published under GPL-3. If you have ideas on how to improve <code>moveVis</code> (e.g. missing features that could be useful) or if you encounter bugs or have other problems, feel free to open an <a href="https://github.com/16EAGLE/moveVis/issues">issue on GitHub</a> for discussion.</p>
+<p><strong>Reference:</strong>
+Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Animating movement trajectories in synchronicity with static or temporally dynamic environmental data in R. Methods Ecol Evol. 2020; 11: 664–669. <a href="https://doi.org/10.1111/2041-210X.13374" class="uri">https://doi.org/10.1111/2041-210X.13374</a></p>
+<p><em>A similar version of this blog post has originally also been published at <a href="http://animove.org/visualizing-movement-trajectories-in-r-using-movevis-article-published-in-the-latest-issue-of-methods-in-ecology-and-evolution/" target="_blank">AniMove.org</a>.</em></p>
+
+
+          
+      </p>
+        
+
+<ul class="tags__list">
+    
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/r/">r</a>
+    </li>
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/movevis/">movevis</a>
+    </li>
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/publication/">publication</a>
+    </li>
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/mee/">mee</a>
+    </li>
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/visualization/">visualization</a>
+    </li>
+    <li class="tag__item">
+        <a class="tag__link" href="/tags/movement/">movement</a>
+    </li></ul>
+
+ 
+    </div>
+
+    
+    
+
+  </main>
+
+  
+  <footer>
+      
+
+
+<div class="social-icons">
+  
+     
+    
+      <a class="social-icons__icon" title="Twitter"
+         style="background-image: url(/images/social/twitter.svg)" 
+         href="https://twitter.com/schwalbwillmann"
+         target="_blank" rel="noopener">
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__icon" title="GitHub"
+         style="background-image: url(/images/social/github.svg)" 
+         href="https://github.com/16eagle"
+         target="_blank" rel="noopener">
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__icon" title="Email"
+         style="background-image: url(/images/social/email.svg)" 
+         href="mailto:jakob.schwalb-willmann@uni-wuerzburg.de"
+         target="_blank" rel="noopener">
+      </a>
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+     
+</div>
+
+    <p>© 2020 Jakob Schwalb-Willmann</p>
+  </footer>
+
+
+  
+  <script src="/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/components/prism-core.min.js"></script>
+  <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
+    data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
+
+</body>
+
+</html>

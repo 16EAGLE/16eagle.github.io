@@ -8,8 +8,8 @@ stylesheet: post.css
 title: Publications
 ---
 
-<a href="https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601" target="_blank">![An Introduction to Spatial Data Analysis](/img/publications.jpg)
-*"An Introduction to Spatial Data Analysis" helps beginners getting started working with spatial data in QGIS and R.*</a>
+<a href="https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601" target="_blank">![An Introduction to Spatial Data Analysis](/img/publications.jpg)</a>
+<figcaption>*"An Introduction to Spatial Data Analysis" helps beginners getting started working with spatial data in QGIS and R.*</figcaption>
 
 Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). [An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software](https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601). Exeter, UK. *Pelagic Publishing*. ISBN: 9781784272135.
 
