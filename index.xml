@@ -15,7 +15,7 @@
     <item>
       <title>Talks &amp; Teaching</title>
       <link>/talks/</link>
-      <pubDate>Mon, 27 Jul 2020 17:51:25 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 11:44:31 +0000</pubDate>
       
       <guid>/talks/</guid>
       <description>Teaching at the AniMove Science School 2019 at Yale University, USA  2020 Seminar “Advanced Programming for Spatial Analysis”, EAGLE MSc.: Practical training to strengthen technical and methodological skills in machine learning (deep neural networks for computer vision, deep learning, discriminative modeling), machine-to-machine communication and creating efficient local and cloud-based development environments for Python and R.
@@ -23,9 +23,18 @@ Seminar “Scientific Graphics”, EAGLE MSc.: Training to improve skills in cre
     </item>
     
     <item>
+      <title>Favorites</title>
+      <link>/favorites/</link>
+      <pubDate>Wed, 29 Jul 2020 11:44:30 +0000</pubDate>
+      
+      <guid>/favorites/</guid>
+      <description> -- -- -- -- -- *Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann* -- Links  http://radio.garden – Switch through radio stations (and air traffic radio) from all around the globe using a 3D globe https://www.window-swap.com/ – Look out of randomly selected windows of other people around the globe   </description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/projects/</link>
-      <pubDate>Mon, 27 Jul 2020 17:51:24 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 11:44:30 +0000</pubDate>
       
       <guid>/projects/</guid>
       <description>Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann  PhD Research project on the “Potentials of animal-environment interactions for remote sensing research”, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr.</description>
@@ -34,7 +43,7 @@ Seminar “Scientific Graphics”, EAGLE MSc.: Training to improve skills in cre
     <item>
       <title>Publications</title>
       <link>/publications/</link>
-      <pubDate>Mon, 27 Jul 2020 17:51:24 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2020 11:44:30 +0000</pubDate>
       
       <guid>/publications/</guid>
       <description>“An Introduction to Spatial Data Analysis” helps beginners getting started working with spatial data in QGIS and R.  Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing. ISBN: 9781784272135.
