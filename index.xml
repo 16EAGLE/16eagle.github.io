@@ -9,6 +9,43 @@
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
     <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate><atom:link href="https://jakob.schwalb-willmann.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publications</title>
+      <link>https://jakob.schwalb-willmann.de/publications/</link>
+      <pubDate>Tue, 08 Mar 2022 00:19:41 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/publications/</guid>
+      <description>“An Introduction to Spatial Data Analysis” helps beginners getting started working with spatial data in QGIS and R.  Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing. ISBN: 9781784272135.
+Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Animating movement trajectories in synchronicity with static or temporally dynamic environmental data in R.</description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Teaching</title>
+      <link>https://jakob.schwalb-willmann.de/talks/</link>
+      <pubDate>Tue, 08 Mar 2022 00:19:41 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/talks/</guid>
+      <description>Teaching at the AniMove Science School 2019 at Yale University, USA  2022 Seminar “Introduction into animal movement data analysis”, EAGLE MSc.: Backgrounds; effects of discretely observing continuous processes (sampling rate, autocorrelation, bias etc.); scale-dependencies/matching of tracking &amp;amp; environmental data; tracking approaches &amp;amp; location error; introduction into geometric &amp;amp; variance component analyses, behavioral segmentation, area-metrics such as home ranges, remote-sensing driven trajectory analysis, incl. corridor analysis, habitat analysis, resource utilization, resource selection, step selection etc.</description>
+    </item>
+    
+    <item>
+      <title>Imagery</title>
+      <link>https://jakob.schwalb-willmann.de/imagery/</link>
+      <pubDate>Tue, 08 Mar 2022 00:19:40 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/imagery/</guid>
+      <description>This is a loose, irregularly updated collection of images that I have taken. All images below are shared under the Creative Commons license CC-BY-SA, allowing you to use, share and modify them for whatever purpose under the conditions that (a) you credit the original source and (b) if you remix, transform, or build upon the material, you distribute it under the same license as the original.   The Svalbard Satellite Data Receiving Ground Station, near Longyearbyen, Spitsbergen, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jakob.schwalb-willmann.de/projects/</link>
+      <pubDate>Tue, 08 Mar 2022 00:19:40 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/projects/</guid>
+      <description>Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. Video copyright: Jakob Schwalb-Willmann  Scientific PhD (ongoing) – Research project on the “Potentials of animal-environment interactions for remote sensing research”, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof.</description>
+    </item>
+    
+    <item>
       <title>Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution</title>
       <link>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
