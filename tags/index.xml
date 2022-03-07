@@ -7,65 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
-    <lastBuildDate>Fri, 25 Sep 2020 14:50:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jakob.schwalb-willmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>book</title>
-      <link>https://jakob.schwalb-willmann.de/tags/book/</link>
-      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/tags/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publication</title>
-      <link>https://jakob.schwalb-willmann.de/tags/publication/</link>
-      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/tags/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>QGIS</title>
-      <link>https://jakob.schwalb-willmann.de/tags/qgis/</link>
-      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/tags/qgis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://jakob.schwalb-willmann.de/tags/r/</link>
-      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spatial data analysis</title>
-      <link>https://jakob.schwalb-willmann.de/tags/spatial-data-analysis/</link>
-      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/tags/spatial-data-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://jakob.schwalb-willmann.de/tags/teaching/</link>
-      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/tags/teaching/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate><atom:link href="https://jakob.schwalb-willmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MEE</title>
       <link>https://jakob.schwalb-willmann.de/tags/mee/</link>
@@ -90,6 +32,24 @@
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
       <guid>https://jakob.schwalb-willmann.de/tags/movevis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>https://jakob.schwalb-willmann.de/tags/publication/</link>
+      <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://jakob.schwalb-willmann.de/tags/r/</link>
+      <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/tags/r/</guid>
       <description></description>
     </item>
     

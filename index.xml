@@ -7,20 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
-    <lastBuildDate>Fri, 25 Sep 2020 14:50:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jakob.schwalb-willmann.de/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Learn how to analyze spatial data from the ground up with this newly published book</title>
-      <link>https://jakob.schwalb-willmann.de/blog/an-introduction-to-spatial-data-analysis-published/</link>
-      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/blog/an-introduction-to-spatial-data-analysis-published/</guid>
-      <description>If you have no prior knowledge in spatial data analysis, ‘An Introduction to Spatial Data Analysis’ might be the book for you to start with!  Spatial data – what does that even mean? That’s a good question and one can become quite philosophical about its answer. If you are perfectly aware of what spatial data are you might just skip the next three paragraphs (or if you are in a hurry and have no time for lengthy introductions).</description>
-    </item>
-    
+    <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate><atom:link href="https://jakob.schwalb-willmann.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution</title>
       <link>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</link>

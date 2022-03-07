@@ -16,20 +16,13 @@
   
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Spectral unmixing in R using RStoolbox" />
-  <meta name="twitter:description" content="This blog post introduces the mesma function in RStoolbox."
-  />
-  <meta name="twitter:site" content="@https://twitter.com/schwalbwillmann" />
-  <meta name="twitter:creator" content="@https://twitter.com/schwalbwillmann" />
+  <meta name="twitter:description" content="This blog post introduces the mesma function in RStoolbox."/>
+  <meta name="twitter:site" content="https://twitter.com/schwalbwillmann" />
+  <meta name="twitter:creator" content="https://twitter.com/schwalbwillmann" />
   
 
-  
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
+  <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+
 
   
   
@@ -42,10 +35,10 @@
   
   
     
-    <link rel="stylesheet" href="/css/post.min.7c99288bff69857630c98e8a051dc1cbc3be0024be68b6f9497b264d62c411f3.css" integrity="sha256-fJkoi/9phXYwyY6KBR3By8O&#43;ACS&#43;aLb5SXsmTWLEEfM="/>
+    <link type="text/css" rel="stylesheet" href="/css/post.min.3e0868e1ab7bfd00167cb5af85049feea8b737b13cd3adfd7bd98e4afb2185eb.css" integrity="sha256-Pgho4at7/QAWfLWvhQSf7qi3N7E80639e9mOSvshhes="/>
   
     
-    <link rel="stylesheet" href="/css/custom.min.cd8e89ac52d48869d59a8e14759551076381edf367e40626c378fa58e4f3f54b.css" integrity="sha256-zY6JrFLUiGnVmo4UdZVRB2OB7fNn5AYmw3j6WOTz9Us="/>
+    <link type="text/css" rel="stylesheet" href="/css/custom.min.cd8e89ac52d48869d59a8e14759551076381edf367e40626c378fa58e4f3f54b.css" integrity="sha256-zY6JrFLUiGnVmo4UdZVRB2OB7fNn5AYmw3j6WOTz9Us="/>
   
   
    
@@ -92,7 +85,7 @@
 </div>
  
 
-  <nav class="nav" role="navigation">
+  <nav class="nav" id="navigation">
   <ul class="nav__list">
     
     
@@ -129,14 +122,16 @@
     
     
 
-    <div class="post">
-      <header class="post__header">
-        <h1 class="post__title">Spectral unmixing in R using RStoolbox</h1>
-        <time datetime="2018-03-15 08:12:00 &#43;0000 &#43;0000" class="post__date"
-        >Last updated: March 15, 2018</time>
-      </header>
-      <p>
-          
+    <div class="flex-wrapper">
+      <div class="post__container">
+        <div class="post">
+          <header class="post__header">
+            <h1 id="post__title">Spectral unmixing in R using RStoolbox</h1>
+            <time datetime="2018-03-15 08:12:00 &#43;0000 &#43;0000" class="post__date">Last updated: March 15, 2018</time> 
+          </header>
+          <p>
+          <article class="post__content">
+              
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
@@ -189,60 +184,69 @@ Franc, V., Hlaváč, V., &amp; Navara, M. (2005). Sequential coordinate-wise alg
 <p><em>A similar version of this blog post has also been published at the <a href="http://remote-sensing.eu/spectral-unmixing-functionality-in-rstoolbox/" target="_blank">webpage of the Department of Remote Sensing, University of Wuerzburg, Germany</a> and at the <a href="http://students.eagle-science.org/spectral-unmixing-in-r/" target="_blank">EAGLE student’s webpage</a>.</em></p>
 
 
+              
+          </article>
+           </p>
           
-      </p>
-        
 
 <ul class="tags__list">
     
     <li class="tag__item">
-        <a class="tag__link" href="https://jakob.schwalb-willmann.de/tags/r/">r</a>
+        <a class="tag__link" href="https://jakob.schwalb-willmann.de/tags/r/">R</a>
     </li>
     <li class="tag__item">
-        <a class="tag__link" href="https://jakob.schwalb-willmann.de/tags/rstoolbox/">rstoolbox</a>
+        <a class="tag__link" href="https://jakob.schwalb-willmann.de/tags/rstoolbox/">RStoolbox</a>
     </li>
     </ul>
 
  
-    </div>
-
-    
-    
-
-  </main>
-
-  
-  <footer>
-      
+          
+          <footer class="post__footer">
+            
 
 
 <div class="social-icons">
   
      
     
-      <a class="social-icons__icon" title="Twitter"
-         style="background-image: url(/images/social/twitter.svg)" 
-         href="https://twitter.com/schwalbwillmann"
-         target="_blank" rel="noopener">
+      <a
+        class="social-icons__link"
+        title="Twitter"
+        href="https://twitter.com/schwalbwillmann"
+        target="_blank"
+        rel="me noopener"
+      >
+        <div class="social-icons__icon" style="background-image: url('https://jakob.schwalb-willmann.de/svg/twitter.svg')"></div>
       </a>
     
   
      
     
-      <a class="social-icons__icon" title="GitHub"
-         style="background-image: url(/images/social/github.svg)" 
-         href="https://github.com/16eagle"
-         target="_blank" rel="noopener">
+      <a
+        class="social-icons__link"
+        title="GitHub"
+        href="https://github.com/16eagle"
+        target="_blank"
+        rel="me noopener"
+      >
+        <div class="social-icons__icon" style="background-image: url('https://jakob.schwalb-willmann.de/svg/github.svg')"></div>
       </a>
     
   
      
     
-      <a class="social-icons__icon" title="Email"
-         style="background-image: url(/images/social/email.svg)" 
-         href="mailto:jakob.schwalb-willmann@uni-wuerzburg.de"
-         target="_blank" rel="noopener">
+      <a
+        class="social-icons__link"
+        title="Email"
+        href="mailto:jakob.schwalb-willmann@uni-wuerzburg.de"
+        target="_blank"
+        rel="me noopener"
+      >
+        <div class="social-icons__icon" style="background-image: url('https://jakob.schwalb-willmann.de/svg/email.svg')"></div>
       </a>
+    
+  
+     
     
   
      
@@ -262,17 +266,30 @@ Franc, V., Hlaváč, V., &amp; Navara, M. (2005). Sequential coordinate-wise alg
      
 </div>
 
-    <p>© 2022 Jakob Schwalb-Willmann</p>
-  </footer>
+            <p>© 2022 Jakob Schwalb-Willmann</p>
+          </footer>
+          </div>
+      </div>
+      
+    </div>
+    
 
+  </main>
+
+   
 
   
-  <script src="/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+  <script src="/js/index.min.301a8b0870381bf76b3b5182e8966d363a0474281183439beb024d8b8228fc66.js" integrity="sha256-MBqLCHA4G/drO1GC6JZtNjoEdCgRg0Ob6wJNi4Io/GY=" crossorigin="anonymous"></script>
   
   
   <script src="https://unpkg.com/prismjs@1.20.0/components/prism-core.min.js"></script>
+
+  
   <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
     data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
+
+  
+
 
 </body>
 
