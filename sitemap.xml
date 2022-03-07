@@ -3,122 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talks/</loc>
-    <lastmod>2020-07-29T11:44:31+00:00</lastmod>
+    <loc>https://jakob.schwalb-willmann.de/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/favorites/</loc>
-    <lastmod>2020-07-29T11:44:30+00:00</lastmod>
+    <loc>https://jakob.schwalb-willmann.de/blog/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/</loc>
-    <lastmod>2020-07-29T11:44:30+00:00</lastmod>
+    <loc>https://jakob.schwalb-willmann.de/tags/book/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/</loc>
-    <lastmod>2020-07-29T11:44:30+00:00</lastmod>
+    <loc>https://jakob.schwalb-willmann.de/blog/an-introduction-to-spatial-data-analysis-published/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/publication/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakob.schwalb-willmann.de/tags/qgis/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakob.schwalb-willmann.de/tags/r/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakob.schwalb-willmann.de/tags/spatial-data-analysis/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakob.schwalb-willmann.de/tags/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakob.schwalb-willmann.de/tags/teaching/</loc>
+    <lastmod>2020-09-25T14:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakob.schwalb-willmann.de/tags/mee/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/movement/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mee/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/movevis/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/movement/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/visualization/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/movevis/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/publication/</loc>
-    <lastmod>2020-05-11T11:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2020-05-11T11:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-11T11:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/visualization/</loc>
-    <lastmod>2020-05-11T11:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/movevis-published-in-mee/</loc>
-    <lastmod>2020-05-11T11:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/phd/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/phd/</loc>
     <lastmod>2019-12-06T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/talks/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/talks/</loc>
     <lastmod>2019-12-06T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/phd-colloquium-2019/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/phd-colloquium-2019/</loc>
     <lastmod>2019-12-06T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/phd-colloquium-2018/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/phd-colloquium-2018/</loc>
     <lastmod>2018-11-15T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rstoolbox/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/rstoolbox/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/spectral-unmixing/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/spectral-unmixing/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/spectral-unmixing-using-rstoolbox/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/spectral-unmixing-using-rstoolbox/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/turkey-vulture-animation-using-movevis/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/turkey-vulture-animation-using-movevis/</loc>
     <lastmod>2017-10-11T08:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/procellariiformes-animation-using-movevis/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/procellariiformes-animation-using-movevis/</loc>
     <lastmod>2017-09-13T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jakob.schwalb-willmann.de/categories/</loc>
   </url>
   
 </urlset>

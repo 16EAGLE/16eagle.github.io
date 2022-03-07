@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>publication on Jakob Schwalb-Willmann</title>
-    <link>/tags/publication/</link>
+    <link>https://jakob.schwalb-willmann.de/tags/publication/</link>
     <description>Recent content in publication on Jakob Schwalb-Willmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
-    <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 14:50:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jakob.schwalb-willmann.de/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Learn how to analyze spatial data from the ground up with this newly published book</title>
+      <link>https://jakob.schwalb-willmann.de/blog/an-introduction-to-spatial-data-analysis-published/</link>
+      <pubDate>Fri, 25 Sep 2020 14:50:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/blog/an-introduction-to-spatial-data-analysis-published/</guid>
+      <description>If you have no prior knowledge in spatial data analysis, ‘An Introduction to Spatial Data Analysis’ might be the book for you to start with!  Spatial data – what does that even mean? That’s a good question and one can become quite philosophical about its answer. If you are perfectly aware of what spatial data are you might just skip the next three paragraphs (or if you are in a hurry and have no time for lengthy introductions).</description>
+    </item>
+    
+    <item>
       <title>Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution</title>
-      <link>/blog/movevis-published-in-mee/</link>
+      <link>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
-      <guid>/blog/movevis-published-in-mee/</guid>
+      <guid>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</guid>
       <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map  This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.
 The visualization of movement trajectories sometimes is not easy.</description>
     </item>

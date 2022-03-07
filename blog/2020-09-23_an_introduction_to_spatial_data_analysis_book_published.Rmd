@@ -1,0 +1,55 @@
+---
+title: "Learn how to analyze spatial data from the ground up with this newly published book"
+description: "If you have no prior knowledge in spatial data analysis, this is the book for you to start with."
+date: "2020-09-25T14:50:00-00:00"
+draft: false
+author: "Jakob Schwalb-Willmann"
+keywords: ["book", "teaching", "spatial data analysis", "publication", "QGIS", "R"]
+tags: ["book", "teaching", "spatial data analysis", "publication", "QGIS", "R"]
+slug: "an-introduction-to-spatial-data-analysis-published"
+stylesheet: post.css
+---
+
+<a href="https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601" target="_blank">![An Introduction to Spatial Data Analysis](/img/an-introduction-to-spatial-data-analysis-staple.jpeg)</a>
+<figcaption>*If you have no prior knowledge in spatial data analysis, 'An Introduction to Spatial Data Analysis' might be the book for you to start with!*</figcaption>
+
+Spatial data – what does that even mean? That's a good question and one can become quite philosophical about its answer. If you are perfectly aware of what spatial data are you might just skip the next three paragraphs (or if you are in a hurry and have no time for lengthy introductions). According to the *Oxford Dictionary*, the term 'spatial' means 'relating to space and the position, size, shape, etc. of things in it', while 'data' can be referred to as observations 'collected together for reference or analysis'. Observations can really be anything: Measurements recorded by some sort of device, like a thermometer, recordings of a certain event, e.g. as images our audio, descriptions of something in natural language, such as protocols of a speech. Observations can be made at very different scales and in various contexts. While an observation on its own can be quite difficult to interpret, a collection of observations puts single observations into context towards each other, making them a part of something bigger: *data*. Within the context that data provides, observations really start to become interesting: As a whole, they show patterns that are insensible from looking at a single observation, such as trends and distributions across multiple dimensions.
+
+### Everything is temporal – and spatial
+
+Speaking of dimensions: A universal characteristic of observations of any kind is that they are dimensional, meaning that they can always be referenced along the dimensions that they happen to be made in. This puts them in context to each other. Most often, observations are referenced along the temporal dimension, simply meaning that they are attributed with time. For example, you could take a temperature measurement (observation) and than attribute it with the time of when you took it (attribute). Regardless of whether you documented the time of your measurement or not, that particular temperature measurement that you just took still *has* a temporal dimension. If you like it or not: The observation *is* and *always will* represent the moment that you took it – even, if you did not document the time with your observation. 
+
+From this, we can conclude two things: First, since our experienced reality that we live in is always constructed by time (we cannot remove the temporal dimension that we live in), all observations that we take *have* a temporal dimension. Thus, *all data are temporal*. Second, if this is true for the temporal dimension than it is also true for the spatial dimensions. For example, you could have taken the temperature measurement on your apartment's balcony. Regardless of whether you attributed your observation with the spatial location which your observation represents or not, the observation will always represent what happened on your balcony. Thus, we have to acknowledge that all data are not only temporal: *All data are spatial*, as well. There are no non-spatial data, in the same way as there are no non-temporal data. Observations are always referenceable within the dimensions that they were made in.
+
+Of course, the dimensional shapes and scales that observations represent, can be quite differing and therefore their importance to an analysis might be more or less relevant. For example, the spatial dimension of economic data on a global scale probably plays a lesser role than its temporal dimension. For some data, the spatial dimension is treated as being of such little importance that it is completely disregarded. In turn, there are data to which the attribution of its spatial dimensions is essential. Such data might be explicitly referred to as 'spatial data', even though there is no such as thing as non-spatial data. 
+
+What this lengthy introduction should clarify is: Data referred to as 'spatial data' are, in principal, not less-spatial than any other data. However, the evaluation of their spatial attributes are of particular importance to analyses and drawing conclusions from them. 
+
+### Spatial vs. geo-spatial
+
+The way how these spatial attributes can be described is quite different and often context- and scale-dependent. Very often, the term 'spatial' is equated with 'geo-spatial' even though 'geo-spatial' is subordinate to 'spatial' as it refers to a specific way of describing space in the context of geo-sciences. In principle, however, there is no difference: Spatial data have spatial attributes, and such can be defined in many different ways, e.g. using simple cartesian coordinate systems, representing a rectangular grid, or much more complex coordinate systems that project the curved surface of the Earth onto a two-dimenionsal plane. Whether data are geo-spatial or spatial in any other way – the foundations of describing space as an attribute to observations and the prospects and challenges of analyzing it remain the same.
+
+And yet, geo-spatial data are special in the same way as any other field-specific class of data is. They describe 
+
+
+
+
+### A book to get you started with *spatial* data
+
+Learning how to do the latter – drawing conclusions from spatial data – and everything that is required to do so is what its all about in our new book "*An Introduction to Spatial Data Analysis – Remote Sensing and GIS with Open Source Software*". Whether you have no experience at all with spatial data or you are well aware of the concepts but lack the ability to set your hand on analyzing spatial data yourself, this book is the right choice for you to start. We intended to write a concise textbook that starts at the basics but does not stop there. Rather, the book has the ambition to guide you from touching spatial data for the first time to creating, retrieving, handling, exploring, transforming, mapping and analyzing spatial data yourself – both with a graphic user interface (QGIS) as well as the command line (R).
+
+
+
+<a href="https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601" target="_blank">![An Introduction to Spatial Data Analysis](/img/an-introduction-to-spatial-data-analysis-figure-indices.jpeg)</a>
+
+<a href="https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601" target="_blank">![An Introduction to Spatial Data Analysis](/img/an-introduction-to-spatial-data-analysis-figure-qgis-toolbar.jpeg)</a>
+
+<a href="https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601" target="_blank">![An Introduction to Spatial Data Analysis](/img/an-introduction-to-spatial-data-analysis-figure-from-qgis-to-r.jpeg)</a>
+
+
+
+The book teaches how to create, retrieve, handle, explore, transform, map and analyze various kinds of spatial data – step-by-step using QGIS, an open source software for creating geo information systems, and R, an open source programming environment for data science. At the same time, readers learn fundamental principles such as spatial data projections and coordinate systems, representations as vectors or rasters or dimensionalities, in-situ sampling, sensor systems and physics, classification, spectral and topographic indexing, point and zonal statistics, and more.
+
+
+**Reference:**
+Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). [An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software](https://pelagicpublishing.com/products/an-introduction-to-spatial-data-analysis?variant=31129275498601). Exeter, UK. *Pelagic Publishing*. ISBN: 9781784272135.
