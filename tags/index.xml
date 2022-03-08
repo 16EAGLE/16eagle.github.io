@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
-    <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate><atom:link href="https://jakob.schwalb-willmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 19:29:00 +0000</lastBuildDate><atom:link href="https://jakob.schwalb-willmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>odcbox</title>
+      <link>https://jakob.schwalb-willmann.de/tags/odcbox/</link>
+      <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/tags/odcbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>odcr</title>
+      <link>https://jakob.schwalb-willmann.de/tags/odcr/</link>
+      <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/tags/odcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Data-Cube</title>
+      <link>https://jakob.schwalb-willmann.de/tags/open-data-cube/</link>
+      <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/tags/open-data-cube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://jakob.schwalb-willmann.de/tags/r/</link>
+      <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote-sensing</title>
+      <link>https://jakob.schwalb-willmann.de/tags/remote-sensing/</link>
+      <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
+      
+      <guid>https://jakob.schwalb-willmann.de/tags/remote-sensing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>MEE</title>
       <link>https://jakob.schwalb-willmann.de/tags/mee/</link>
@@ -41,15 +86,6 @@
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
       
       <guid>https://jakob.schwalb-willmann.de/tags/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://jakob.schwalb-willmann.de/tags/r/</link>
-      <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      
-      <guid>https://jakob.schwalb-willmann.de/tags/r/</guid>
       <description></description>
     </item>
     
