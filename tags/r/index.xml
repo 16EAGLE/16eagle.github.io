@@ -7,53 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
-    <lastBuildDate>Tue, 08 Mar 2022 19:29:00 +0000</lastBuildDate><atom:link href="https://jakob.schwalb-willmann.de/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 19:29:00 +0000</lastBuildDate>
+    <atom:link href="https://jakob.schwalb-willmann.de/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The odcr R package: Working with the Open Data Cube in R</title>
       <link>https://jakob.schwalb-willmann.de/blog/working-with-odcr/</link>
       <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/working-with-odcr/</guid>
       <description>The Open Data Cube is an open-source data management architecture explicitly tailored to store, serve and compute multi-dimensional Earth observation data products. It simplifies and speeds-up common user-data interaction procedures such as querying, indexing and processing Earth observation data compared to more traditional approaches of managing data (e.g. self-administered file systems). In addition, it eases collaboration on data, since Open Data Cube instances can be hosted on a server, e.</description>
     </item>
-    
     <item>
       <title>Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution</title>
       <link>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</guid>
-      <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map  This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.
+      <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.
 The visualization of movement trajectories sometimes is not easy.</description>
     </item>
-    
     <item>
       <title>Spectral unmixing in R using RStoolbox</title>
       <link>https://jakob.schwalb-willmann.de/blog/spectral-unmixing-using-rstoolbox/</link>
       <pubDate>Thu, 15 Mar 2018 08:12:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/spectral-unmixing-using-rstoolbox/</guid>
       <description>Recently, I finished the development of the first version of a spectral unmixing function being part of RStoolbox, an R package offering numerous tools for remote sensing analysis written by Benjamin Leutner. The multiple endmember spectral mixture analysis (mesma) function makes it possible to unmix multi- and hyper-spectral imagery by sets of spectral endmember profiles.
- Figure 1: The RStoolbox::mesma() workflow.  For this, a non-negative least squares (NNLS) solver was implemented.</description>
+mesma framework
+Figure 1: The RStoolbox::mesma() workflow. For this, a non-negative least squares (NNLS) solver was implemented.</description>
     </item>
-    
     <item>
       <title>Visualizing migratory movement of Turkey Vultures and NDVI using moveVis</title>
       <link>https://jakob.schwalb-willmann.de/blog/turkey-vulture-animation-using-movevis/</link>
       <pubDate>Wed, 11 Oct 2017 08:12:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/turkey-vulture-animation-using-movevis/</guid>
-      <description>Figure 1: An Eastern Turkey Vulture (C. a. septentrionalis) in flight (Canada). Source: Peter K Burian/CC BY-SA  The Turkey Vulture (Cathartes aura) is the most widespread scavenging bird on the american continents, ranging from southern Canada to the tip of South America. Since 2003, the Hawk Mountain Sanctuary is collecting movement data of Turkey Vultures to investigate their migration behaviours, using radio tags monitored by satellite. 21 Turkey Vultures have been tracked during that period of time.</description>
+      <description>turkeyvulture
+Figure 1: An Eastern Turkey Vulture (C. a. septentrionalis) in flight (Canada). Source: Peter K Burian/CC BY-SA The Turkey Vulture (Cathartes aura) is the most widespread scavenging bird on the american continents, ranging from southern Canada to the tip of South America. Since 2003, the Hawk Mountain Sanctuary is collecting movement data of Turkey Vultures to investigate their migration behaviours, using radio tags monitored by satellite. 21 Turkey Vultures have been tracked during that period of time.</description>
     </item>
-    
     <item>
       <title>Visualizing the movements of Procellariiformes and Sea Surface Temperature using moveVis</title>
       <link>https://jakob.schwalb-willmann.de/blog/procellariiformes-animation-using-movevis/</link>
       <pubDate>Wed, 13 Sep 2017 08:00:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/procellariiformes-animation-using-movevis/</guid>
-      <description>Figure 1: An Albatross in the air. Source: pexels.com  In the framework of the AniMove summer school 2017, the moveVis R package was introduced to the participants, resulting in several likewise interesting and beautiful animal movement animations. The shown animation displays the movement of Procellariiformes near Marion Island, South Africa, against the multi-temporal, daily NOAA sea surface temperature product G1SST. It was created by Tegan Carpenter-Kling, who is a PhD candidate within the Marine Apex Predator Research Unit (MAPRU) based at Nelson Mandela University in Port Elizabeth, South Africa.</description>
+      <description>albatross
+Figure 1: An Albatross in the air. Source: pexels.com In the framework of the AniMove summer school 2017, the moveVis R package was introduced to the participants, resulting in several likewise interesting and beautiful animal movement animations. The shown animation displays the movement of Procellariiformes near Marion Island, South Africa, against the multi-temporal, daily NOAA sea surface temperature product G1SST. It was created by Tegan Carpenter-Kling, who is a PhD candidate within the Marine Apex Predator Research Unit (MAPRU) based at Nelson Mandela University in Port Elizabeth, South Africa.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sysadmin on Jakob Schwalb-Willmann</title>
+    <link>https://jakob.schwalb-willmann.de/tags/sysadmin/</link>
+    <description>Recent content in sysadmin on Jakob Schwalb-Willmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} Jakob Schwalb-Willmann</copyright>
+    <lastBuildDate>Fri, 10 Nov 2023 08:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jakob.schwalb-willmann.de/tags/sysadmin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to mount a VirtualBox volume on a Linux host using the command line</title>
+      <link>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</link>
+      <pubDate>Fri, 10 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</guid>
+      <description>Introduction VirtualBox is a widely used virtualization software that allows you to install and run entire operating systems as virtual machines (VMs) on a host system. For this, one can create virtual hard disks that are physically stored on the host, e.g. as dynamically expanding .vdi or .vmdk image files. VirtualBox attaches these disks to the respective VM so that the VM can mount them as if they were physical devices and use them to store volumes on it, e.</description>
+    </item>
+  </channel>
+</rss>

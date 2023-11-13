@@ -3,22 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jakob.schwalb-willmann.de/talks/</loc>
-    <lastmod>2022-03-09T11:24:30+00:00</lastmod>
-  </url><url>
-    <loc>https://jakob.schwalb-willmann.de/projects/</loc>
-    <lastmod>2022-03-09T11:24:29+00:00</lastmod>
+    <lastmod>2023-11-13T13:57:51+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/publications/</loc>
-    <lastmod>2022-03-09T11:24:29+00:00</lastmod>
+    <lastmod>2023-11-13T13:57:50+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/imagery/</loc>
-    <lastmod>2022-03-09T11:24:28+00:00</lastmod>
+    <lastmod>2023-11-13T13:57:49+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/projects/</loc>
+    <lastmod>2023-11-13T13:57:49+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/</loc>
-    <lastmod>2022-03-08T19:29:00+00:00</lastmod>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/blog/</loc>
-    <lastmod>2022-03-08T19:29:00+00:00</lastmod>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/how-to/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/linux/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/sysadmin/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/vboximg-mount/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/virtualbox/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/virtualization/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/odcbox/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
@@ -33,9 +57,6 @@
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/remote-sensing/</loc>
-    <lastmod>2022-03-08T19:29:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jakob.schwalb-willmann.de/tags/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/blog/working-with-odcr/</loc>

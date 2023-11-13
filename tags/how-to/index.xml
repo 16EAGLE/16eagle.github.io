@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>how-to on Jakob Schwalb-Willmann</title>
+    <link>https://jakob.schwalb-willmann.de/tags/how-to/</link>
+    <description>Recent content in how-to on Jakob Schwalb-Willmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} Jakob Schwalb-Willmann</copyright>
+    <lastBuildDate>Fri, 10 Nov 2023 08:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jakob.schwalb-willmann.de/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to mount a VirtualBox volume on a Linux host using the command line</title>
+      <link>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</link>
+      <pubDate>Fri, 10 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</guid>
+      <description>Introduction VirtualBox is a widely used virtualization software that allows you to install and run entire operating systems as virtual machines (VMs) on a host system. For this, one can create virtual hard disks that are physically stored on the host, e.g. as dynamically expanding .vdi or .vmdk image files. VirtualBox attaches these disks to the respective VM so that the VM can mount them as if they were physical devices and use them to store volumes on it, e.</description>
+    </item>
+    <item>
+      <title>The odcr R package: Working with the Open Data Cube in R</title>
+      <link>https://jakob.schwalb-willmann.de/blog/working-with-odcr/</link>
+      <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/blog/working-with-odcr/</guid>
+      <description>The Open Data Cube is an open-source data management architecture explicitly tailored to store, serve and compute multi-dimensional Earth observation data products. It simplifies and speeds-up common user-data interaction procedures such as querying, indexing and processing Earth observation data compared to more traditional approaches of managing data (e.g. self-administered file systems). In addition, it eases collaboration on data, since Open Data Cube instances can be hosted on a server, e.</description>
+    </item>
+  </channel>
+</rss>

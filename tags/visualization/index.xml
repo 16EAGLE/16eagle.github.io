@@ -7,34 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
-    <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate><atom:link href="https://jakob.schwalb-willmann.de/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate>
+    <atom:link href="https://jakob.schwalb-willmann.de/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution</title>
       <link>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</guid>
-      <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map  This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.
+      <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.
 The visualization of movement trajectories sometimes is not easy.</description>
     </item>
-    
     <item>
       <title>Visualizing migratory movement of Turkey Vultures and NDVI using moveVis</title>
       <link>https://jakob.schwalb-willmann.de/blog/turkey-vulture-animation-using-movevis/</link>
       <pubDate>Wed, 11 Oct 2017 08:12:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/turkey-vulture-animation-using-movevis/</guid>
-      <description>Figure 1: An Eastern Turkey Vulture (C. a. septentrionalis) in flight (Canada). Source: Peter K Burian/CC BY-SA  The Turkey Vulture (Cathartes aura) is the most widespread scavenging bird on the american continents, ranging from southern Canada to the tip of South America. Since 2003, the Hawk Mountain Sanctuary is collecting movement data of Turkey Vultures to investigate their migration behaviours, using radio tags monitored by satellite. 21 Turkey Vultures have been tracked during that period of time.</description>
+      <description>turkeyvulture
+Figure 1: An Eastern Turkey Vulture (C. a. septentrionalis) in flight (Canada). Source: Peter K Burian/CC BY-SA The Turkey Vulture (Cathartes aura) is the most widespread scavenging bird on the american continents, ranging from southern Canada to the tip of South America. Since 2003, the Hawk Mountain Sanctuary is collecting movement data of Turkey Vultures to investigate their migration behaviours, using radio tags monitored by satellite. 21 Turkey Vultures have been tracked during that period of time.</description>
     </item>
-    
     <item>
       <title>Visualizing the movements of Procellariiformes and Sea Surface Temperature using moveVis</title>
       <link>https://jakob.schwalb-willmann.de/blog/procellariiformes-animation-using-movevis/</link>
       <pubDate>Wed, 13 Sep 2017 08:00:00 +0000</pubDate>
-      
       <guid>https://jakob.schwalb-willmann.de/blog/procellariiformes-animation-using-movevis/</guid>
-      <description>Figure 1: An Albatross in the air. Source: pexels.com  In the framework of the AniMove summer school 2017, the moveVis R package was introduced to the participants, resulting in several likewise interesting and beautiful animal movement animations. The shown animation displays the movement of Procellariiformes near Marion Island, South Africa, against the multi-temporal, daily NOAA sea surface temperature product G1SST. It was created by Tegan Carpenter-Kling, who is a PhD candidate within the Marine Apex Predator Research Unit (MAPRU) based at Nelson Mandela University in Port Elizabeth, South Africa.</description>
+      <description>albatross
+Figure 1: An Albatross in the air. Source: pexels.com In the framework of the AniMove summer school 2017, the moveVis R package was introduced to the participants, resulting in several likewise interesting and beautiful animal movement animations. The shown animation displays the movement of Procellariiformes near Marion Island, South Africa, against the multi-temporal, daily NOAA sea surface temperature product G1SST. It was created by Tegan Carpenter-Kling, who is a PhD candidate within the Marine Apex Predator Research Unit (MAPRU) based at Nelson Mandela University in Port Elizabeth, South Africa.</description>
     </item>
-    
   </channel>
 </rss>
