@@ -12,32 +12,32 @@
     <item>
       <title>Talks &amp; Teaching</title>
       <link>https://jakob.schwalb-willmann.de/talks/</link>
-      <pubDate>Wed, 15 Nov 2023 11:43:58 +0000</pubDate>
+      <pubDate>Wed, 15 Nov 2023 15:14:22 +0000</pubDate>
       <guid>https://jakob.schwalb-willmann.de/talks/</guid>
       <description>Teaching at the AniMove Science School 2019 at Yale University, USA Since 2019, I have a teaching position at the University of Würzburg. In addition, I have been teaching at the AniMove Science Schools for several years. Find out about my talks and teaching below.
-2023 Seminar “Deep learning for Earth observation”, EAGLE MSc.: This methodological course introduces Deep Learning with a practical focus on how to use it for image processing in Earth observation.</description>
+2023 Seminar “Introduction into programming and geo-statistics”, EAGLE MSc. Basics of R &amp;amp; QGIS; version control using git; R in comparison to other languages (interpreter vs.</description>
     </item>
     <item>
       <title>Publications</title>
       <link>https://jakob.schwalb-willmann.de/publications/</link>
-      <pubDate>Wed, 15 Nov 2023 11:43:57 +0000</pubDate>
+      <pubDate>Wed, 15 Nov 2023 15:14:21 +0000</pubDate>
       <guid>https://jakob.schwalb-willmann.de/publications/</guid>
       <description>“An Introduction to Spatial Data Analysis” helps beginners getting started working with spatial data in QGIS and R. Wegmann, M.; Schwalb-Willmann, J.; Dech, S. (2020). An Introduction to Spatial Data Analysis: Remote Sensing and GIS with Open Source Software. Exeter, UK. Pelagic Publishing. ISBN: 9781784272135.
 Schwalb-Willmann, J.; Remelgado, R.; Safi, K.; Wegmann, M. (2020). moveVis: Animating movement trajectories in synchronicity with static or temporally dynamic environmental data in R. Methods Ecol Evol.</description>
     </item>
     <item>
-      <title>Imagery</title>
-      <link>https://jakob.schwalb-willmann.de/imagery/</link>
-      <pubDate>Wed, 15 Nov 2023 11:43:56 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/imagery/</guid>
-      <description> This is a loose, irregularly updated collection of images that I have taken. All images below are shared under the Creative Commons license CC-BY-SA, allowing you to use, share and modify them for whatever purpose under the conditions that (a) you credit the original source and (b) if you remix, transform, or build upon the material, you distribute it under the same license as the original. The Svalbard Satellite Data Receiving Ground Station, near Longyearbyen, Spitsbergen, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA The Icy Slopes of Sassenfjorden Fjord, Svalbard, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA The Nordenskjold Glacier’s Terminus, Svalbard, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA The Adventfjorden and Isfjorden Fjords, Svalbard, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA A Lizard up close, 2014 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA Birds, 2014 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA A Flock, 2014 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA </description>
-    </item>
-    <item>
       <title>Projects</title>
       <link>https://jakob.schwalb-willmann.de/projects/</link>
-      <pubDate>Wed, 15 Nov 2023 11:43:56 +0000</pubDate>
+      <pubDate>Wed, 15 Nov 2023 15:14:20 +0000</pubDate>
       <guid>https://jakob.schwalb-willmann.de/projects/</guid>
       <description>Migration of White Storks, tracked between 2011 and 2017 by the Max Planck Institute of Animal Behavior, on top of a dynamic NASA Blue Marble background representing global seasonality, animated using moveVis. © 2023 Jakob Schwalb-Willmann Scientific PhD (ongoing) – Research project on the “Potentials of animal-environment interactions for remote sensing research”, supervised by Prof. Dr. Stefan Dech (Earth Observation Center at the German Aerospace Center, DLR) and Prof. Dr.</description>
+    </item>
+    <item>
+      <title>Imagery</title>
+      <link>https://jakob.schwalb-willmann.de/imagery/</link>
+      <pubDate>Wed, 15 Nov 2023 15:14:19 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/imagery/</guid>
+      <description> This is a loose, irregularly updated collection of images that I have taken. All images below are shared under the Creative Commons license CC-BY-SA, allowing you to use, share and modify them for whatever purpose under the conditions that (a) you credit the original source and (b) if you remix, transform, or build upon the material, you distribute it under the same license as the original. The Svalbard Satellite Data Receiving Ground Station, near Longyearbyen, Spitsbergen, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA The Icy Slopes of Sassenfjorden Fjord, Svalbard, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA The Nordenskjold Glacier’s Terminus, Svalbard, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA The Adventfjorden and Isfjorden Fjords, Svalbard, 2015 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA A Lizard up close, 2014 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA Birds, 2014 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA A Flock, 2014 – Creator: Jakob Schwalb-Willmann; some rights reserved under CC-BY-SA </description>
     </item>
     <item>
       <title>How to mount a VirtualBox volume on a Linux host using the command line</title>
