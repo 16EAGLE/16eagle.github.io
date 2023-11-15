@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on Jakob Schwalb-Willmann</title>
+    <link>https://jakob.schwalb-willmann.de/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Jakob Schwalb-Willmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} Jakob Schwalb-Willmann</copyright>
+    <lastBuildDate>Wed, 15 Nov 2023 08:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jakob.schwalb-willmann.de/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create an Ubuntu Server autoinstall image for a headless system</title>
+      <link>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-autoinstall-image-for-a-headless-system/</link>
+      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-autoinstall-image-for-a-headless-system/</guid>
+      <description>Introduction Step 1: Extract Ubuntu Server .iso image extract ubuntu server iso image source files
+7z -y x ubuntu-22.04.3-live-server-amd64.iso -osource-files Step 2: Re-configure GRUB edit
+nano source-files/boot/grub/grub.cfg add
+menuentry &amp;quot;Autoinstall Ubuntu Server&amp;quot; { set gfxpayload=keep linux /casper/vmlinuz quiet autoinstall ds=nocloud\;s=/cdrom/server/ --- initrd /casper/initrd } rename and move boot
+mv &amp;#39;[BOOT]&amp;#39; ../BOOT cd .. Step 3: Create cloud-config mkdir source-files/server touch source-files/server/meta-data nano source-files/server/user-data minimal example
+#cloud-config autoinstall: version: 1 identity: hostname: ubuntu-server password: username: administrator create new image including changes</description>
+    </item>
+  </channel>
+</rss>
