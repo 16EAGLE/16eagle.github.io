@@ -7,8 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
-    <lastBuildDate>Fri, 10 Nov 2023 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 08:00:00 +0000</lastBuildDate>
     <atom:link href="https://jakob.schwalb-willmann.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create an ssh-ready Ubuntu Server auto-install image for a headless system</title>
+      <link>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ssh-ready-ubuntu-server-auto-install-image-for-a-headless-system/</link>
+      <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ssh-ready-ubuntu-server-auto-install-image-for-a-headless-system/</guid>
+      <description>Introduction Installing Ubuntu onto a computer is not complicated: One just needs to boot a live image (e.g. from a USB drive or served via the network) and the user is prompted with the option to install Ubuntu onto the host’s internal hard drive. After a few steps, the installation is done and the system is ready.
+However, this process is interactive, i.e. it requires user input to complete the installation.</description>
+    </item>
+    <item>
+      <title>How to create an Ubuntu Server auto-install image for a headless, ssh-ready system</title>
+      <link>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-ssh-ready-system/</link>
+      <pubDate>Wed, 15 Nov 2023 08:00:00 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-ssh-ready-system/</guid>
+      <description>Introduction Installing Ubuntu onto a computer is not complicated: One just needs to boot a live image (e.g. from a USB drive or served via the network) and the user is prompted with the option to install Ubuntu onto the host’s internal hard drive. After a few steps, the installation is done and the system is ready.
+However, this process is interactive, i.e. it requires user input to complete the installation.</description>
+    </item>
     <item>
       <title>How to mount a VirtualBox volume on a Linux host using the command line</title>
       <link>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</link>
