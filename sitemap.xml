@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jakob.schwalb-willmann.de/talks/</loc>
-    <lastmod>2023-11-20T22:55:45+00:00</lastmod>
+    <lastmod>2023-11-20T23:02:58+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/publications/</loc>
-    <lastmod>2023-11-20T22:55:44+00:00</lastmod>
+    <lastmod>2023-11-20T23:02:57+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/projects/</loc>
-    <lastmod>2023-11-20T22:55:43+00:00</lastmod>
+    <lastmod>2023-11-20T23:02:56+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/imagery/</loc>
-    <lastmod>2023-11-20T22:55:42+00:00</lastmod>
+    <lastmod>2023-11-20T23:02:55+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
@@ -26,7 +26,7 @@
     <loc>https://jakob.schwalb-willmann.de/tags/headless/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ssh-ready-ubuntu-server-auto-install-image-for-a-headless-system/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/how-to/</loc>
@@ -46,9 +46,6 @@
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/ubuntu/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-ssh-ready-system/</loc>
-    <lastmod>2023-11-15T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</loc>
     <lastmod>2023-11-10T08:00:00+00:00</lastmod>
