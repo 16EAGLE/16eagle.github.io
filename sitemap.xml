@@ -2,126 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2024-11-24T22:43:47+00:00</lastmod>
+    <loc>https://jakob.schwalb-willmann.de/</loc>
+    <lastmod>2024-11-24T22:48:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talks/</loc>
-    <lastmod>2024-11-24T22:43:47+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/publications/</loc>
-    <lastmod>2024-11-24T22:43:46+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/imagery/</loc>
-    <lastmod>2024-11-24T22:43:45+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/projects/</loc>
-    <lastmod>2024-11-24T22:43:45+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/autoinstall/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/headless/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/how-to/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/linux/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/server/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/sysadmin/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/ubuntu/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</loc>
     <lastmod>2023-11-10T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/vboximg-mount/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/how-to/</loc>
     <lastmod>2023-11-10T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/virtualbox/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/linux/</loc>
     <lastmod>2023-11-10T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/virtualization/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/sysadmin/</loc>
     <lastmod>2023-11-10T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/odcbox/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/vboximg-mount/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/virtualbox/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/virtualization/</loc>
+    <lastmod>2023-11-10T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/odcbox/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/odcr/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/odcr/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/open-data-cube/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/open-data-cube/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/r/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/r/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/remote-sensing/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/remote-sensing/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/working-with-odcr/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/working-with-odcr/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/mee/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/mee/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/movement/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/movement/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/movevis/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/movevis/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/publication/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/publication/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/visualization/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/visualization/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/movevis-published-in-mee/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</loc>
     <lastmod>2020-05-11T11:22:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/phd/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/phd/</loc>
     <lastmod>2019-12-06T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/talks/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/talks/</loc>
     <lastmod>2019-12-06T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/phd-colloquium-2019/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/phd-colloquium-2019/</loc>
     <lastmod>2019-12-06T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/phd-colloquium-2018/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/phd-colloquium-2018/</loc>
     <lastmod>2018-11-15T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/rstoolbox/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/rstoolbox/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/spectral-unmixing/</loc>
+    <loc>https://jakob.schwalb-willmann.de/tags/spectral-unmixing/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/spectral-unmixing-using-rstoolbox/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/spectral-unmixing-using-rstoolbox/</loc>
     <lastmod>2018-03-15T08:12:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/turkey-vulture-animation-using-movevis/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/turkey-vulture-animation-using-movevis/</loc>
     <lastmod>2017-10-11T08:12:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/procellariiformes-animation-using-movevis/</loc>
+    <loc>https://jakob.schwalb-willmann.de/blog/procellariiformes-animation-using-movevis/</loc>
     <lastmod>2017-09-13T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>https://jakob.schwalb-willmann.de/categories/</loc>
   </url>
 </urlset>
