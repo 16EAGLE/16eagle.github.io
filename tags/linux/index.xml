@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>linux on Jakob Schwalb-Willmann</title>
-    <link>https://jakob.schwalb-willmann.de/tags/linux/</link>
-    <description>Recent content in linux on Jakob Schwalb-Willmann</description>
+    <title>Linux on Jakob Schwalb-Willmann</title>
+    <link>http://localhost:4321/tags/linux/</link>
+    <description>Recent content in Linux on Jakob Schwalb-Willmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
     <lastBuildDate>Mon, 20 Nov 2023 08:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jakob.schwalb-willmann.de/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create an Ubuntu Server auto-install image for a headless system</title>
-      <link>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</link>
+      <link>http://localhost:4321/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</guid>
-      <description>Introduction Installing Ubuntu onto a computer is not complicated: One just needs to boot a live image (e.g. from a USB drive or served via the network) and the user is prompted with the option to install Ubuntu onto the host’s internal hard drive. After a few steps, the installation is done and the system is ready.
-However, this process is interactive, i.e. it requires user input to complete the installation.</description>
+      <guid>http://localhost:4321/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</guid>
+      <description>Introduction Installing Ubuntu onto a computer is not complicated: One just needs to boot a live image (e.g. from a USB drive or served via the network) and the user is prompted with the option to install Ubuntu onto the host’s internal hard drive. After a few steps, the installation is done and the system is ready.&#xA;However, this process is interactive, i.e. it requires user input to complete the installation.</description>
     </item>
     <item>
       <title>How to mount a VirtualBox volume on a Linux host using the command line</title>
-      <link>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</link>
+      <link>http://localhost:4321/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</link>
       <pubDate>Fri, 10 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</guid>
+      <guid>http://localhost:4321/blog/how-to-mount-a-virtualbox-volume-on-a-linux-host-using-the-command-line/</guid>
       <description>Introduction VirtualBox is a widely used virtualization software that allows you to install and run entire operating systems as virtual machines (VMs) on a host system. For this, one can create virtual hard disks that are physically stored on the host, e.g. as dynamically expanding .vdi or .vmdk image files. VirtualBox attaches these disks to the respective VM so that the VM can mount them as if they were physical devices and use them to store volumes on it, e.</description>
     </item>
   </channel>

@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>publication on Jakob Schwalb-Willmann</title>
-    <link>https://jakob.schwalb-willmann.de/tags/publication/</link>
-    <description>Recent content in publication on Jakob Schwalb-Willmann</description>
+    <title>Publication on Jakob Schwalb-Willmann</title>
+    <link>http://localhost:4321/tags/publication/</link>
+    <description>Recent content in Publication on Jakob Schwalb-Willmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
     <lastBuildDate>Mon, 11 May 2020 11:22:00 +0000</lastBuildDate>
-    <atom:link href="https://jakob.schwalb-willmann.de/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualizing movement trajectories in R using moveVis: Article published in the latest issue of Methods in Ecology and Evolution</title>
-      <link>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</link>
+      <link>http://localhost:4321/blog/movevis-published-in-mee/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/blog/movevis-published-in-mee/</guid>
-      <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.
-The visualization of movement trajectories sometimes is not easy.</description>
+      <guid>http://localhost:4321/blog/movevis-published-in-mee/</guid>
+      <description>Figure 1: Migratory movements of white storks Ciconia ciconia on a Mapbox satellite base map This month, our open-access paper on visualizing movement trajectories in R using moveVis has been published in the latest issue of Methods in Ecology and Evolution. The article describes the moveVis user functions, explains their technical implementation, provides use cases and discusses its strengths and limitations.&#xA;The visualization of movement trajectories sometimes is not easy.</description>
     </item>
   </channel>
 </rss>

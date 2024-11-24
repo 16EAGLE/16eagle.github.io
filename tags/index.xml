@@ -2,179 +2,179 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jakob Schwalb-Willmann</title>
-    <link>https://jakob.schwalb-willmann.de/tags/</link>
+    <link>http://localhost:4321/tags/</link>
     <description>Recent content in Tags on Jakob Schwalb-Willmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
     <lastBuildDate>Mon, 20 Nov 2023 08:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jakob.schwalb-willmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>autoinstall</title>
-      <link>https://jakob.schwalb-willmann.de/tags/autoinstall/</link>
+      <title>Autoinstall</title>
+      <link>http://localhost:4321/tags/autoinstall/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/autoinstall/</guid>
+      <guid>http://localhost:4321/tags/autoinstall/</guid>
       <description></description>
     </item>
     <item>
-      <title>headless</title>
-      <link>https://jakob.schwalb-willmann.de/tags/headless/</link>
+      <title>Headless</title>
+      <link>http://localhost:4321/tags/headless/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/headless/</guid>
+      <guid>http://localhost:4321/tags/headless/</guid>
       <description></description>
     </item>
     <item>
-      <title>how-to</title>
-      <link>https://jakob.schwalb-willmann.de/tags/how-to/</link>
+      <title>How-To</title>
+      <link>http://localhost:4321/tags/how-to/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/how-to/</guid>
+      <guid>http://localhost:4321/tags/how-to/</guid>
       <description></description>
     </item>
     <item>
-      <title>linux</title>
-      <link>https://jakob.schwalb-willmann.de/tags/linux/</link>
+      <title>Linux</title>
+      <link>http://localhost:4321/tags/linux/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/linux/</guid>
+      <guid>http://localhost:4321/tags/linux/</guid>
       <description></description>
     </item>
     <item>
-      <title>server</title>
-      <link>https://jakob.schwalb-willmann.de/tags/server/</link>
+      <title>Server</title>
+      <link>http://localhost:4321/tags/server/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/server/</guid>
+      <guid>http://localhost:4321/tags/server/</guid>
       <description></description>
     </item>
     <item>
-      <title>sysadmin</title>
-      <link>https://jakob.schwalb-willmann.de/tags/sysadmin/</link>
+      <title>Sysadmin</title>
+      <link>http://localhost:4321/tags/sysadmin/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/sysadmin/</guid>
+      <guid>http://localhost:4321/tags/sysadmin/</guid>
       <description></description>
     </item>
     <item>
-      <title>ubuntu</title>
-      <link>https://jakob.schwalb-willmann.de/tags/ubuntu/</link>
+      <title>Ubuntu</title>
+      <link>http://localhost:4321/tags/ubuntu/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/ubuntu/</guid>
+      <guid>http://localhost:4321/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>
-      <title>vboximg-mount</title>
-      <link>https://jakob.schwalb-willmann.de/tags/vboximg-mount/</link>
+      <title>Vboximg-Mount</title>
+      <link>http://localhost:4321/tags/vboximg-mount/</link>
       <pubDate>Fri, 10 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/vboximg-mount/</guid>
+      <guid>http://localhost:4321/tags/vboximg-mount/</guid>
       <description></description>
     </item>
     <item>
       <title>VirtualBox</title>
-      <link>https://jakob.schwalb-willmann.de/tags/virtualbox/</link>
+      <link>http://localhost:4321/tags/virtualbox/</link>
       <pubDate>Fri, 10 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/virtualbox/</guid>
+      <guid>http://localhost:4321/tags/virtualbox/</guid>
       <description></description>
     </item>
     <item>
-      <title>virtualization</title>
-      <link>https://jakob.schwalb-willmann.de/tags/virtualization/</link>
+      <title>Virtualization</title>
+      <link>http://localhost:4321/tags/virtualization/</link>
       <pubDate>Fri, 10 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/virtualization/</guid>
+      <guid>http://localhost:4321/tags/virtualization/</guid>
       <description></description>
     </item>
     <item>
-      <title>odcbox</title>
-      <link>https://jakob.schwalb-willmann.de/tags/odcbox/</link>
+      <title>Odcbox</title>
+      <link>http://localhost:4321/tags/odcbox/</link>
       <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/odcbox/</guid>
+      <guid>http://localhost:4321/tags/odcbox/</guid>
       <description></description>
     </item>
     <item>
-      <title>odcr</title>
-      <link>https://jakob.schwalb-willmann.de/tags/odcr/</link>
+      <title>Odcr</title>
+      <link>http://localhost:4321/tags/odcr/</link>
       <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/odcr/</guid>
+      <guid>http://localhost:4321/tags/odcr/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Data-Cube</title>
-      <link>https://jakob.schwalb-willmann.de/tags/open-data-cube/</link>
+      <link>http://localhost:4321/tags/open-data-cube/</link>
       <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/open-data-cube/</guid>
+      <guid>http://localhost:4321/tags/open-data-cube/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>https://jakob.schwalb-willmann.de/tags/r/</link>
+      <link>http://localhost:4321/tags/r/</link>
       <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/r/</guid>
+      <guid>http://localhost:4321/tags/r/</guid>
       <description></description>
     </item>
     <item>
-      <title>remote-sensing</title>
-      <link>https://jakob.schwalb-willmann.de/tags/remote-sensing/</link>
+      <title>Remote-Sensing</title>
+      <link>http://localhost:4321/tags/remote-sensing/</link>
       <pubDate>Tue, 08 Mar 2022 19:29:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/remote-sensing/</guid>
+      <guid>http://localhost:4321/tags/remote-sensing/</guid>
       <description></description>
     </item>
     <item>
       <title>MEE</title>
-      <link>https://jakob.schwalb-willmann.de/tags/mee/</link>
+      <link>http://localhost:4321/tags/mee/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/mee/</guid>
+      <guid>http://localhost:4321/tags/mee/</guid>
       <description></description>
     </item>
     <item>
-      <title>movement</title>
-      <link>https://jakob.schwalb-willmann.de/tags/movement/</link>
+      <title>Movement</title>
+      <link>http://localhost:4321/tags/movement/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/movement/</guid>
+      <guid>http://localhost:4321/tags/movement/</guid>
       <description></description>
     </item>
     <item>
-      <title>moveVis</title>
-      <link>https://jakob.schwalb-willmann.de/tags/movevis/</link>
+      <title>MoveVis</title>
+      <link>http://localhost:4321/tags/movevis/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/movevis/</guid>
+      <guid>http://localhost:4321/tags/movevis/</guid>
       <description></description>
     </item>
     <item>
-      <title>publication</title>
-      <link>https://jakob.schwalb-willmann.de/tags/publication/</link>
+      <title>Publication</title>
+      <link>http://localhost:4321/tags/publication/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/publication/</guid>
+      <guid>http://localhost:4321/tags/publication/</guid>
       <description></description>
     </item>
     <item>
-      <title>visualization</title>
-      <link>https://jakob.schwalb-willmann.de/tags/visualization/</link>
+      <title>Visualization</title>
+      <link>http://localhost:4321/tags/visualization/</link>
       <pubDate>Mon, 11 May 2020 11:22:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/visualization/</guid>
+      <guid>http://localhost:4321/tags/visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>PhD</title>
-      <link>https://jakob.schwalb-willmann.de/tags/phd/</link>
+      <link>http://localhost:4321/tags/phd/</link>
       <pubDate>Fri, 06 Dec 2019 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/phd/</guid>
+      <guid>http://localhost:4321/tags/phd/</guid>
       <description></description>
     </item>
     <item>
-      <title>talks</title>
-      <link>https://jakob.schwalb-willmann.de/tags/talks/</link>
+      <title>Talks</title>
+      <link>http://localhost:4321/tags/talks/</link>
       <pubDate>Fri, 06 Dec 2019 08:00:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/talks/</guid>
+      <guid>http://localhost:4321/tags/talks/</guid>
       <description></description>
     </item>
     <item>
       <title>RStoolbox</title>
-      <link>https://jakob.schwalb-willmann.de/tags/rstoolbox/</link>
+      <link>http://localhost:4321/tags/rstoolbox/</link>
       <pubDate>Thu, 15 Mar 2018 08:12:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/rstoolbox/</guid>
+      <guid>http://localhost:4321/tags/rstoolbox/</guid>
       <description></description>
     </item>
     <item>
-      <title>spectral unmixing</title>
-      <link>https://jakob.schwalb-willmann.de/tags/spectral-unmixing/</link>
+      <title>Spectral Unmixing</title>
+      <link>http://localhost:4321/tags/spectral-unmixing/</link>
       <pubDate>Thu, 15 Mar 2018 08:12:00 +0000</pubDate>
-      <guid>https://jakob.schwalb-willmann.de/tags/spectral-unmixing/</guid>
+      <guid>http://localhost:4321/tags/spectral-unmixing/</guid>
       <description></description>
     </item>
   </channel>
