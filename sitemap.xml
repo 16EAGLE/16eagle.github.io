@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2024-11-24T22:21:33+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/publications/</loc>
-    <lastmod>2024-11-24T22:21:33+00:00</lastmod>
+    <lastmod>2024-11-24T22:28:50+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/talks/</loc>
-    <lastmod>2024-11-24T22:21:33+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/imagery/</loc>
-    <lastmod>2024-11-24T22:21:32+00:00</lastmod>
+    <lastmod>2024-11-24T22:28:50+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/projects/</loc>
-    <lastmod>2024-11-24T22:21:32+00:00</lastmod>
+    <lastmod>2024-11-24T22:28:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publications/</loc>
+    <lastmod>2024-11-24T22:28:49+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/imagery/</loc>
+    <lastmod>2024-11-24T22:28:48+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/autoinstall/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
