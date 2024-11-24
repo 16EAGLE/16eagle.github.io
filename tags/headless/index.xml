@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Headless on Jakob Schwalb-Willmann</title>
-    <link>http://localhost:4321/tags/headless/</link>
+    <link>https://jakob.schwalb-willmann.de/tags/headless/</link>
     <description>Recent content in Headless on Jakob Schwalb-Willmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Jakob Schwalb-Willmann</copyright>
     <lastBuildDate>Mon, 20 Nov 2023 08:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/headless/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jakob.schwalb-willmann.de/tags/headless/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create an Ubuntu Server auto-install image for a headless system</title>
-      <link>http://localhost:4321/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</link>
+      <link>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</link>
       <pubDate>Mon, 20 Nov 2023 08:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</guid>
+      <guid>https://jakob.schwalb-willmann.de/blog/how-to-create-an-ubuntu-server-auto-install-image-for-a-headless-system/</guid>
       <description>Introduction Installing Ubuntu onto a computer is not complicated: One just needs to boot a live image (e.g. from a USB drive or served via the network) and the user is prompted with the option to install Ubuntu onto the host’s internal hard drive. After a few steps, the installation is done and the system is ready.&#xA;However, this process is interactive, i.e. it requires user input to complete the installation.</description>
     </item>
   </channel>
