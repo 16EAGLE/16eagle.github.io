@@ -2,25 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jakob.schwalb-willmann.de/talks/</loc>
-    <lastmod>2025-04-06T23:24:19+00:00</lastmod>
-  </url><url>
-    <loc>https://jakob.schwalb-willmann.de/projects/</loc>
-    <lastmod>2025-04-06T23:24:18+00:00</lastmod>
-  </url><url>
     <loc>https://jakob.schwalb-willmann.de/publications/</loc>
-    <lastmod>2025-04-06T23:24:18+00:00</lastmod>
+    <lastmod>2025-04-07T00:10:12+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/talks/</loc>
+    <lastmod>2025-04-07T00:10:12+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/imagery/</loc>
-    <lastmod>2025-04-06T23:24:17+00:00</lastmod>
+    <lastmod>2025-04-07T00:10:11+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/projects/</loc>
+    <lastmod>2025-04-07T00:10:11+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jakob.schwalb-willmann.de/tags/autoinstall/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
+    <loc>https://jakob.schwalb-willmann.de/tags/arctic/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/blog/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/drones/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/qgis/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/r/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/remote-sensing/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/spitsbergen/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/svalbard/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/teaching/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/blog/teaching-remote-sensing-for-arctic-ecology-research-at-unis-svalbard/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/uav/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/unis/</loc>
+    <lastmod>2025-02-27T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/tags/autoinstall/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/headless/</loc>
@@ -39,9 +75,6 @@
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/sysadmin/</loc>
-    <lastmod>2023-11-20T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jakob.schwalb-willmann.de/tags/</loc>
     <lastmod>2023-11-20T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/ubuntu/</loc>
@@ -66,12 +99,6 @@
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/tags/open-data-cube/</loc>
-    <lastmod>2022-03-08T19:29:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jakob.schwalb-willmann.de/tags/r/</loc>
-    <lastmod>2022-03-08T19:29:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jakob.schwalb-willmann.de/tags/remote-sensing/</loc>
     <lastmod>2022-03-08T19:29:00+00:00</lastmod>
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/blog/working-with-odcr/</loc>
