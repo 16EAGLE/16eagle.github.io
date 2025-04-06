@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QGIS on Jakob Schwalb-Willmann</title>
+    <link>https://jakob.schwalb-willmann.de/tags/qgis/</link>
+    <description>Recent content in QGIS on Jakob Schwalb-Willmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} Jakob Schwalb-Willmann</copyright>
+    <lastBuildDate>Thu, 27 Feb 2025 08:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jakob.schwalb-willmann.de/tags/qgis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching Remote Sensing for Arctic Ecology Research at UNIS, Svalbard</title>
+      <link>https://jakob.schwalb-willmann.de/blog/teaching-remote-sensing-for-arctic-ecology-research-at-unis-svalbard/</link>
+      <pubDate>Thu, 27 Feb 2025 08:00:00 +0000</pubDate>
+      <guid>https://jakob.schwalb-willmann.de/blog/teaching-remote-sensing-for-arctic-ecology-research-at-unis-svalbard/</guid>
+      <description>Even in high-latitude places like Svalbard, with temperatures reaching far below zero in the winter, a versatile ecosystem of plants and wildlife exists. In summer, vegetation thrives during the polar day, providing resources of high value to reindeer that feed exclusively on plants. In winter, the landscape is largely covered by snow and ice.
+Remote sensing has the potential of gaining a better understanding of the factors that influence the development of this unique ecosystem under changing conditions.</description>
+    </item>
+  </channel>
+</rss>
