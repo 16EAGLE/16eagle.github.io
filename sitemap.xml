@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://jakob.schwalb-willmann.de/talks/</loc>
     <lastmod>2025-05-05T17:33:16+00:00</lastmod>
   </url><url>
@@ -13,6 +14,19 @@
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/imagery/</loc>
     <lastmod>2025-05-05T17:33:13+00:00</lastmod>
+=======
+    <loc>https://jakob.schwalb-willmann.de/projects/</loc>
+    <lastmod>2025-04-17T16:18:03+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/publications/</loc>
+    <lastmod>2025-04-17T16:18:03+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/talks/</loc>
+    <lastmod>2025-04-17T16:18:03+00:00</lastmod>
+  </url><url>
+    <loc>https://jakob.schwalb-willmann.de/imagery/</loc>
+    <lastmod>2025-04-17T16:18:02+00:00</lastmod>
+>>>>>>> 6b465e4ace05d9c195c127ca419384af8b52d6a8
   </url><url>
     <loc>https://jakob.schwalb-willmann.de/</loc>
     <lastmod>2025-02-27T08:00:00+00:00</lastmod>
